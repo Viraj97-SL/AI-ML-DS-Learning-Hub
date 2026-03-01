@@ -1,0 +1,99 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Secrets — NEVER commit these
+.env
+.env.local
+.env.*.local
+*.key
+*_key.txt
+secrets.json
+credentials.json
+api_keys.py
+
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# Data files (usually too large for Git)
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+# Model files (often large — use DVC or model registry)
+models/*.bin
+models/*.pt
+models/*.pth
+models/*.onnx
+*.safetensors
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+*.out
+
+# Weights & Biases
+wandb/
+
+# DVC
+.dvc/cache
+.dvc/tmp
+
+# Docker
+.dockerignore
+
+# Distribution
+*.tar.gz
+*.zip

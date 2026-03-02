@@ -73,12 +73,11 @@ PHASE 4: Expert (Ongoing)
 
 | Week | Topic | Resource | Project |
 |------|-------|----------|---------|
-| 1 | LLM fundamentals (how do they work?) | [LLM 101](beginner/01_llm_fundamentals.md) | Read + understand |
-| 2 | OpenAI API basics | [API Quickstart](beginner/02_openai_api.ipynb) | Build a chatbot |
-| 3 | Prompt Engineering fundamentals | [Prompt Eng Guide](beginner/03_prompt_engineering.ipynb) | Improve a bad prompt |
-| 4 | Anthropic Claude API | [Claude API Guide](beginner/04_claude_api.ipynb) | Compare Claude vs GPT |
-| 5-6 | Basic RAG pipeline | [RAG Basics](beginner/05_basic_rag.ipynb) | Q&A over your own docs |
-| 7-8 | Mini-project: AI assistant | [First AI App](beginner/06_first_ai_app.ipynb) | Streamlit app + deploy |
+| 1 | LLM fundamentals & APIs (OpenAI, Claude, Gemini) | [LLM APIs Guide](beginner/01_llm_apis.ipynb) | Call 3 different LLM APIs |
+| 2-3 | Prompt Engineering fundamentals | [Prompt Eng Guide](beginner/02_prompt_engineering.ipynb) | Improve a bad prompt |
+| 4 | Chatbot with memory | [Chatbot Guide](beginner/03_chatbot_with_memory.ipynb) | Multi-turn chatbot |
+| 5-6 | Basic RAG pipeline | [RAG Basics](beginner/04_basic_rag.ipynb) | Q&A over your own docs |
+| 7-8 | Deploy AI App (Streamlit + cloud) | [Deployment Guide](beginner/05_deploy_ai_app.ipynb) | Streamlit app + deploy |
 
 **[→ Start Beginner Phase](beginner/)**
 
@@ -92,13 +91,14 @@ PHASE 4: Expert (Ongoing)
 
 | Week | Topic | Resource | Project |
 |------|-------|----------|---------|
-| 1-2 | LangChain deep dive | [LangChain Guide](intermediate/01_langchain.ipynb) | Build a chain |
-| 3-4 | Advanced RAG techniques | [Advanced RAG](intermediate/02_advanced_rag.ipynb) | Hybrid search + reranking |
+| 1-2 | LangChain deep dive | [LangChain Guide](intermediate/02_langchain_deep_dive.ipynb) | Build a chain |
+| 3-4 | Advanced RAG techniques | [Advanced RAG](intermediate/01_advanced_rag.ipynb) | Hybrid search + reranking |
 | 5-6 | Vector databases | [Vector DB Guide](intermediate/03_vector_databases.ipynb) | Build semantic search |
 | 7-8 | AI Agents | [Agents Guide](intermediate/04_ai_agents.ipynb) | Build tool-using agent |
 | 9-10 | Function calling & tool use | [Tool Use Guide](intermediate/05_function_calling.ipynb) | Agent with 5+ tools |
-| 11-12 | LlamaIndex | [LlamaIndex Guide](intermediate/06_llamaindex.ipynb) | Complex document QA |
-| 13-14 | AI Evaluation | [Eval Guide](intermediate/07_ai_evaluation.ipynb) | Build eval suite |
+| 11-12 | LlamaIndex | [LlamaIndex Guide](intermediate/05_llamaindex.ipynb) | Complex document QA |
+| 13-14 | AI Evaluation | [Eval Guide](intermediate/06_ai_evaluation.ipynb) | Build eval suite |
+| 15-16 | Production AI Systems | [Production Guide](intermediate/07_production_ai.ipynb) | Prod-ready AI service |
 
 **[→ Start Intermediate Phase](intermediate/)**
 
@@ -112,10 +112,10 @@ PHASE 4: Expert (Ongoing)
 
 | Week | Topic | Resource | Project |
 |------|-------|----------|---------|
-| 1-3 | LLM Fine-tuning (LoRA/QLoRA) | [Fine-tuning Guide](advanced/01_llm_finetuning.ipynb) | Fine-tune Llama 3 |
-| 4-6 | Multi-agent systems | [Multi-agent Guide](advanced/02_multi_agent.ipynb) | Research + report agent |
-| 7-9 | Production AI systems | [Production Guide](advanced/03_production_ai.ipynb) | Prod-ready AI service |
-| 10-12 | AI Safety & Hallucination | [Safety Guide](advanced/04_ai_safety.ipynb) | Build guardrails system |
+| 1-3 | LLM Fine-tuning (LoRA/QLoRA + Alignment) | [Fine-tuning Guide](advanced/01_llm_finetuning_alignment.ipynb) | Fine-tune Llama 3 |
+| 4-6 | Multi-agent systems | [Multi-agent Guide](advanced/02_multi_agent_systems.ipynb) | Research + report agent |
+| 7-9 | Advanced Retrieval techniques | [Advanced Retrieval](advanced/04_advanced_retrieval.ipynb) | Multi-strategy retrieval |
+| 10-12 | AI Safety & Guardrails | [Safety Guide](advanced/03_safety_guardrails.ipynb) | Build guardrails system |
 | 13-15 | GraphRAG & Knowledge Graphs | [GraphRAG Guide](advanced/05_graphrag.ipynb) | Knowledge graph RAG |
 | 16-18 | Custom LLM Evaluation | [Advanced Evals](advanced/06_advanced_evals.ipynb) | Custom eval framework |
 | 19-21 | AI Product Case Studies | [Case Studies](advanced/07_case_studies.md) | Analyze + present |

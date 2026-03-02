@@ -63,7 +63,7 @@ PHASE 4: Advanced (3-5 months)
 | Week | Topic | Resource | Project |
 |------|-------|----------|---------|
 | 1-2 | Advanced Python (OOP, testing, packaging) | [Python SWE Guide](beginner/01_python_swe.ipynb) | Refactor a messy script |
-| 3-4 | Git for teams | [Git Deep Dive](beginner/02_git_workflow.md) | Collaborate on a shared repo |
+| 3-4 | Git for teams | [Git Deep Dive](beginner/02_git_workflow.ipynb) | Collaborate on a shared repo |
 | 5-6 | Docker fundamentals | [Docker Guide](beginner/03_docker_intro.ipynb) | Containerize a Python app |
 | 7-8 | REST APIs with FastAPI | [FastAPI Guide](beginner/04_fastapi_intro.ipynb) | Build a prediction API |
 | 9-10 | ML model basics (sklearn + PyTorch) | [ML Refresher](beginner/05_ml_refresher.ipynb) | Train + serialize a model |
@@ -81,9 +81,9 @@ PHASE 4: Advanced (3-5 months)
 
 | Week | Topic | Resource | Project |
 |------|-------|----------|---------|
-| 1-2 | Experiment Tracking (MLflow) | [MLflow Guide](intermediate/01_mlflow.ipynb) | Track 10 experiments |
-| 3-4 | Data Version Control (DVC) | [DVC Guide](intermediate/02_dvc.ipynb) | Version a dataset + model |
-| 5-6 | Pipeline Orchestration (Airflow) | [Airflow Guide](intermediate/03_airflow.ipynb) | Automated retraining pipeline |
+| 1-2 | Experiment Tracking (MLflow) | [MLflow Guide](intermediate/01_mlflow_tracking.ipynb) | Track 10 experiments |
+| 3-4 | Data Version Control (DVC) | [DVC Guide](intermediate/02_dvc_pipelines.ipynb) | Version a dataset + model |
+| 5-6 | Pipeline Orchestration (Airflow) | [Airflow Guide](intermediate/03_airflow_orchestration.ipynb) | Automated retraining pipeline |
 | 7-8 | Model Serving at Scale | [Serving Guide](intermediate/04_model_serving.ipynb) | Deploy model to prod |
 | 9-10 | Model Monitoring | [Monitoring Guide](intermediate/05_model_monitoring.ipynb) | Detect data drift |
 | 11-12 | Feature Stores (Feast) | [Feature Store Guide](intermediate/06_feature_stores.ipynb) | Build feature pipeline |
@@ -101,12 +101,11 @@ PHASE 4: Advanced (3-5 months)
 
 | Week | Topic | Resource | Project |
 |------|-------|----------|---------|
-| 1-3 | Kubernetes for ML | [K8s Guide](advanced/01_kubernetes_ml.ipynb) | Deploy ML on K8s |
-| 4-6 | Distributed Training | [Distributed Training](advanced/02_distributed_training.ipynb) | Multi-GPU training job |
+| 1-3 | Kubernetes for ML | [K8s Guide](advanced/02_kubernetes_ml.ipynb) | Deploy ML on K8s |
+| 4-6 | Distributed Training | [Distributed Training](advanced/01_distributed_training.ipynb) | Multi-GPU training job |
 | 7-9 | LLM Fine-tuning (LoRA/QLoRA) | [LLM Fine-tuning Guide](advanced/03_llm_finetuning.ipynb) | Fine-tune Llama on custom data |
-| 10-12 | Spark for ML | [Spark ML Guide](advanced/04_spark_ml.ipynb) | Process 100M row dataset |
-| 13-15 | ML Platform Design | [Platform Architecture](advanced/05_ml_platform_design.md) | Design ML platform spec |
-| 16-18 | Inference Optimization | [Optimization Guide](advanced/06_inference_optimization.ipynb) | Reduce latency by 50% |
+| 10-12 | ML Platform Architecture | [Platform Architecture](advanced/04_ml_platform_architecture.ipynb) | Design ML platform spec |
+| 13-15 | Inference Optimization | [Optimization Guide](advanced/06_inference_optimization.ipynb) | Reduce latency by 50% |
 
 **[→ Start Advanced Phase](advanced/)**
 

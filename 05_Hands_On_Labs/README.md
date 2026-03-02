@@ -33,23 +33,23 @@ jupyter lab
 
 | Notebook | Topics | Time | Track |
 |----------|--------|------|-------|
-| [01_eda_from_scratch.ipynb](notebooks/01_eda_from_scratch.ipynb) | pandas, visualization, EDA workflow | 2-3 hrs | DS |
+| [01_pandas_fundamentals.ipynb](notebooks/01_pandas_fundamentals.ipynb) | pandas, visualization, EDA workflow | 2-3 hrs | DS |
 | [02_stats_intuition.ipynb](notebooks/02_stats_intuition.ipynb) | Distributions, CLT, hypothesis testing | 2 hrs | DS |
-| [03_python_data_structures.ipynb](notebooks/03_python_data_structures.ipynb) | Lists, dicts, sets, comprehensions | 1-2 hrs | All |
+| [03_data_visualization.ipynb](notebooks/03_data_visualization.ipynb) | matplotlib, seaborn, plotly | 1-2 hrs | All |
 | [04_sql_for_analysts.ipynb](notebooks/04_sql_for_analysts.ipynb) | SQLite + pandas + common queries | 2 hrs | DS, MLE |
-| [05_first_ml_model.ipynb](notebooks/05_first_ml_model.ipynb) | sklearn, train/test split, metrics | 1-2 hrs | DS, MLE |
-| [06_first_llm_app.ipynb](notebooks/06_first_llm_app.ipynb) | OpenAI API, prompting, chatbot | 1-2 hrs | AIE |
+| [02_sklearn_ml_pipeline.ipynb](notebooks/02_sklearn_ml_pipeline.ipynb) | sklearn, train/test split, metrics | 1-2 hrs | DS, MLE |
+| [05_llm_api_basics.ipynb](notebooks/05_llm_api_basics.ipynb) | OpenAI API, prompting, chatbot | 1-2 hrs | AIE |
 
 ### Intermediate Level
 
 | Notebook | Topics | Time | Track |
 |----------|--------|------|-------|
 | [07_feature_engineering.ipynb](notebooks/07_feature_engineering.ipynb) | Feature creation, encoding, scaling | 2-3 hrs | DS |
-| [08_model_evaluation.ipynb](notebooks/08_model_evaluation.ipynb) | CV, AUC-ROC, precision-recall, SHAP | 2-3 hrs | DS, MLE |
+| [07_model_evaluation_and_explainability.ipynb](notebooks/07_model_evaluation_and_explainability.ipynb) | CV, AUC-ROC, precision-recall, SHAP | 2-3 hrs | DS, MLE |
 | [09_neural_network_scratch.ipynb](notebooks/09_neural_network_scratch.ipynb) | Backprop + numpy neural net | 2-3 hrs | DS, MLE |
 | [10_pytorch_intro.ipynb](notebooks/10_pytorch_intro.ipynb) | Tensors, autograd, training loop | 2-3 hrs | MLE |
-| [11_build_ml_api.ipynb](notebooks/11_build_ml_api.ipynb) | FastAPI + sklearn model serving | 2 hrs | MLE |
-| [12_rag_pipeline.ipynb](notebooks/12_rag_pipeline.ipynb) | RAG with Chroma + LangChain | 2-3 hrs | AIE |
+| [08_mlops_fastapi_deployment.ipynb](notebooks/08_mlops_fastapi_deployment.ipynb) | FastAPI + sklearn model serving | 2 hrs | MLE |
+| [06_rag_from_scratch.ipynb](notebooks/06_rag_from_scratch.ipynb) | RAG with Chroma + LangChain | 2-3 hrs | AIE |
 | [13_prompt_engineering.ipynb](notebooks/13_prompt_engineering.ipynb) | Zero/few-shot, CoT, system prompts | 2-3 hrs | AIE |
 
 ### Advanced Level
@@ -60,7 +60,7 @@ jupyter lab
 | [15_llm_fine_tuning_lora.ipynb](notebooks/15_llm_fine_tuning_lora.ipynb) | LoRA fine-tuning on Llama | 4-6 hrs | MLE, AIE |
 | [16_mlops_pipeline.ipynb](notebooks/16_mlops_pipeline.ipynb) | MLflow + DVC + automated retraining | 3-4 hrs | MLE |
 | [17_multi_agent_system.ipynb](notebooks/17_multi_agent_system.ipynb) | LangGraph multi-agent workflow | 3-4 hrs | AIE |
-| [18_ab_testing_stats.ipynb](notebooks/18_ab_testing_stats.ipynb) | Full A/B test design + analysis | 3-4 hrs | DS |
+| [04_hypothesis_testing_ab_testing.ipynb](notebooks/04_hypothesis_testing_ab_testing.ipynb) | Full A/B test design + analysis | 3-4 hrs | DS |
 | [19_transformer_from_scratch.ipynb](notebooks/19_transformer_from_scratch.ipynb) | Build transformer in PyTorch | 4-6 hrs | MLE |
 | [20_llm_eval_framework.ipynb](notebooks/20_llm_eval_framework.ipynb) | Build custom LLM evaluation suite | 3-4 hrs | AIE |
 

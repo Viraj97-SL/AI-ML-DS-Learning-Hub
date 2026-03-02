@@ -202,6 +202,14 @@ MIT License — free to use, share, and build upon with attribution.
 
 **If this repo helped you, please give it a ⭐ — it helps others find it!**
 
-Made with passion for the learning community | Updated March 2025
+## 💖 Contributors
+
+A massive thank you to everyone who has contributed to this learning hub! 
+
+<a href="https://github.com/viraj97-sl/ai-ml-ds-learning-hub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=viraj97-sl/ai-ml-ds-learning-hub" alt="Contributors list"/>
+</a>
+
+Made with passion for the learning community | Updated March 2026
 
 </div>

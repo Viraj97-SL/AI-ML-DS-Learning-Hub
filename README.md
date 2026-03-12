@@ -9,7 +9,7 @@
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/viraj97-sl/ai-ml-ds-learning-hub/check-links.yml?style=for-the-badge&label=Link+Check)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-blue.svg?style=for-the-badge)](.)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-blue.svg?style=for-the-badge)](.)
 [![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-orange.svg?style=for-the-badge)](00_Overview/how_to_use.md)
 
 <br/>

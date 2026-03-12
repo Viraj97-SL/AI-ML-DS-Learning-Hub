@@ -19,8 +19,8 @@ Every notebook has a "Open in Colab" button. Click it, no installation needed.
 
 ### Option 3: Local
 ```bash
-git clone https://github.com/yourusername/ai-ml-ds-hub.git
-cd "ai-ml-ds-hub"
+git clone https://github.com/viraj97-sl/ai-ml-ds-learning-hub.git
+cd "ai-ml-ds-learning-hub"
 pip install -r requirements.txt
 jupyter lab
 ```
@@ -105,7 +105,7 @@ Quick projects that cement a specific skill without requiring a full end-to-end 
 
 Current challenge: **Build a Mini-RAG system with 3 chunking strategies and benchmark which retrieves better on 10 test questions.**
 
-Past challenges are archived in [challenges/](challenges/).
+Community challenges coming soon — check back! See [challenges/](challenges/) for upcoming challenge details and how to participate.
 
 ---
 

@@ -4,7 +4,9 @@
 
 ### Your definitive roadmap from zero to career-ready — for Data Scientists, ML Engineers & AI Engineers
 
-[![Stars](https://img.shields.io/github/stars/yourusername/ai-ml-ds-hub?style=for-the-badge&logo=github&color=FFD700)](https://github.com/yourusername/ai-ml-ds-hub)
+[![Stars](https://img.shields.io/github/stars/viraj97-sl/ai-ml-ds-learning-hub?style=for-the-badge&logo=github&color=FFD700)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub)
+[![Forks](https://img.shields.io/github/forks/viraj97-sl/ai-ml-ds-learning-hub?style=for-the-badge&logo=github&color=blue)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub/fork)
+[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/viraj97-sl/ai-ml-ds-learning-hub/check-links.yml?style=for-the-badge&label=Link+Check)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-blue.svg?style=for-the-badge)](.)
@@ -16,9 +18,19 @@
 
 <br/>
 
-**3 Career Tracks** | **100+ Curated Resources** | **50+ Hands-On Projects** | **Interview Prep** | **Salary Guide**
+**3 Career Tracks** | **100+ Curated Resources** | **50+ Hands-On Projects** | **Interview Prep** | **Competitions Guide** | **Salary Guide**
 
 </div>
+
+---
+
+## What's New (March 2026)
+
+| Addition | Description |
+|----------|-------------|
+| [09_Competitions/](09_Competitions/) | Full competitive ML guide: Kaggle deep-dive, platform comparison, winning strategies, 20 landmark competitions |
+| [Learning Roadmaps](00_Overview/learning_roadmaps.md) | Mermaid flowcharts for all 3 tracks with time estimates and prerequisite matrix |
+| [Reasoning Models Notebook](03_AI_Engineer/advanced/07_reasoning_models.ipynb) | o1, o3, DeepSeek-R1, chain-of-thought, cost/latency tradeoffs, smart routing pipeline |
 
 ---
 
@@ -40,11 +52,13 @@ The internet is full of scattered tutorials. This repo is different:
 |---------|-----------------|
 | Curious beginner, no CS background | [Start Here →](00_Overview/how_to_use.md) |
 | CS student exploring career options | [Role Comparison →](00_Overview/role_comparison.md) |
+| Want a visual step-by-step roadmap | [Learning Roadmaps →](00_Overview/learning_roadmaps.md) |
 | Aspiring Data Scientist | [DS Track →](01_Data_Scientist/) |
 | Aspiring ML Engineer | [MLE Track →](02_ML_Engineer/) |
 | Aspiring AI Engineer | [AIE Track →](03_AI_Engineer/) |
 | Preparing for interviews | [Interview Prep →](06_Interview_Prep/) |
 | Looking for projects to build | [Hands-On Labs →](05_Hands_On_Labs/) |
+| Preparing for Kaggle / competitions | [Competitions →](09_Competitions/) |
 | Negotiating a salary | [Salary Guide →](08_Career_Guide/salary_guide.md) |
 
 ---
@@ -123,6 +137,19 @@ Before diving into any track, build these foundations:
 - **[Mathematics & Statistics](04_Foundations/mathematics/)** — Linear algebra, calculus, probability
 - **[Python Programming](04_Foundations/programming/)** — From syntax to software engineering
 - **[Statistics for DS/ML](04_Foundations/statistics/)** — Hypothesis testing, distributions, Bayesian thinking
+
+> Not sure where you fit? Check the [Learning Roadmaps →](00_Overview/learning_roadmaps.md) for Mermaid flowcharts with time estimates for each track.
+
+---
+
+## Competitions
+
+Competitive ML is the fastest path from theory to real-world skill:
+
+- **[Competitions Overview](09_Competitions/README.md)** — Platforms compared, getting started guide, competition lifecycle
+- **[Kaggle Deep Dive](09_Competitions/kaggle_guide.md)** — API setup, strategy by type, 10 must-know tricks with code
+- **[Winning Strategies](09_Competitions/winning_strategies.md)** — Feature engineering, ensembling, Optuna, leakage prevention
+- **[Landmark Competitions](09_Competitions/past_competitions.md)** — 20 landmark competitions across tabular, NLP, CV, time series
 
 ---
 
@@ -213,5 +240,9 @@ A massive thank you to everyone who has contributed to this learning hub!
 </a>
 
 Made with passion for the learning community | Updated March 2026
+
+---
+
+[CHANGELOG](CHANGELOG.md) · [PROGRESS TRACKER](PROGRESS.md) · [CONTRIBUTING](CONTRIBUTING.md) · [LICENSE](LICENSE)
 
 </div>

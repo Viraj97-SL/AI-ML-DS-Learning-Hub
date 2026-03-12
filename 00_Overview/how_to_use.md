@@ -115,8 +115,8 @@ Click the green "Code" button on GitHub → "Codespaces" → "Create codespace".
 ### Option C: Local setup
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ai-ml-ds-hub.git
-cd ai-ml-ds-hub
+git clone https://github.com/viraj97-sl/ai-ml-ds-learning-hub.git
+cd ai-ml-ds-learning-hub
 
 # Create virtual environment
 python -m venv venv

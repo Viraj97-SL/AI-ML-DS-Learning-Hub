@@ -35,8 +35,8 @@ Click "Fork" in the top right of the GitHub page.
 
 ### 2. Clone Your Fork
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-ml-ds-hub.git
-cd ai-ml-ds-hub
+git clone https://github.com/YOUR-USERNAME/ai-ml-ds-learning-hub.git
+cd ai-ml-ds-learning-hub
 ```
 
 ### 3. Create a Branch

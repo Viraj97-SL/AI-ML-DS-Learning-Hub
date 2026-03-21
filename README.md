@@ -5,6 +5,7 @@
 ### Your definitive roadmap from zero to career-ready — for Data Scientists, ML Engineers & AI Engineers
 
 [![Stars](https://img.shields.io/github/stars/viraj97-sl/ai-ml-ds-learning-hub?style=for-the-badge&logo=github&color=FFD700)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub)
+
 [![Forks](https://img.shields.io/github/forks/viraj97-sl/ai-ml-ds-learning-hub?style=for-the-badge&logo=github&color=blue)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub/fork)
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/viraj97-sl/ai-ml-ds-learning-hub/check-links.yml?style=for-the-badge&label=Link+Check)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)

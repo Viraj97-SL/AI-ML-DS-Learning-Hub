@@ -10,7 +10,7 @@ Welcome! This guide will help you navigate and get the most out of this learning
 
 If you've never written a line of code:
 
-1. Start with **[Python Basics](../04_Foundations/programming/python_basics.md)** — 2-3 weeks
+1. Start with **[Python Basics](../04_Foundations/programming/python_for_ds.md)** — 2-3 weeks
 2. Learn **[SQL Fundamentals](../04_Foundations/programming/sql_basics.md)** — 1-2 weeks
 3. Explore **[Math & Statistics Overview](../04_Foundations/mathematics/)** — 3-4 weeks in parallel
 4. Then pick your role track

@@ -1,0 +1,143 @@
+site_name: AI/ML/DS Learning Hub
+site_url: https://viraj97-sl.github.io/ai-ml-ds-learning-hub/
+site_description: >-
+  A comprehensive, academic-quality learning hub covering Data Science,
+  Machine Learning Engineering, and AI Engineering — from beginner to expert.
+site_author: viraj97-sl
+
+repo_url: https://github.com/viraj97-sl/ai-ml-ds-learning-hub
+repo_name: viraj97-sl/ai-ml-ds-learning-hub
+edit_uri: edit/master/
+
+docs_dir: '.'
+site_dir: site
+
+theme:
+  name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - toc.follow
+
+plugins:
+  - search:
+      lang: en
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - tables
+  - pymdownx.highlight:
+      anchor_linenums: true
+      use_pygments: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+
+exclude_docs: |
+  site/
+  venv/
+  .venv/
+  *.ipynb
+  node_modules/
+  scripts/
+
+nav:
+  - Home: README.md
+  - Getting Started:
+      - Role Comparison: 00_Overview/role_comparison.md
+      - How to Use: 00_Overview/how_to_use.md
+      - Learning Roadmaps: 00_Overview/learning_roadmaps.md
+      - Salary Guide: 00_Overview/salary_guide.md
+  - Data Scientist:
+      - Track Overview: 01_Data_Scientist/README.md
+      - Skills Checklist: 01_Data_Scientist/skills_checklist.md
+  - ML Engineer:
+      - Track Overview: 02_ML_Engineer/README.md
+  - AI Engineer:
+      - Track Overview: 03_AI_Engineer/README.md
+  - Foundations:
+      - Mathematics: 04_Foundations/mathematics/README.md
+      - Python for DS: 04_Foundations/programming/python_for_ds.md
+      - SQL Basics: 04_Foundations/programming/sql_basics.md
+  - Hands-On Labs:
+      - Overview: 05_Hands_On_Labs/README.md
+      - Challenges: 05_Hands_On_Labs/challenges/README.md
+  - Interview Prep:
+      - Data Scientist: 06_Interview_Prep/data_scientist/README.md
+      - ML Engineer: 06_Interview_Prep/ml_engineer/README.md
+      - AI Engineer: 06_Interview_Prep/ai_engineer/README.md
+  - Resources:
+      - Books: 07_Resources/books.md
+      - Courses: 07_Resources/courses.md
+      - Papers: 07_Resources/papers.md
+      - Tools & Stack: 07_Resources/tools_and_stack.md
+      - Communities: 07_Resources/communities.md
+  - Career Guide:
+      - Portfolio Guide: 08_Career_Guide/portfolio_guide.md
+      - Resume Guide: 08_Career_Guide/resume_guide.md
+      - Networking Guide: 08_Career_Guide/networking_guide.md
+  - Competitions:
+      - Overview: 09_Competitions/README.md
+      - Kaggle Guide: 09_Competitions/kaggle_guide.md
+      - Winning Strategies: 09_Competitions/winning_strategies.md
+      - Past Competitions: 09_Competitions/past_competitions.md
+  - Advanced Topics:
+      - Computer Vision: docs/computer_vision/README.md
+      - Natural Language Processing: docs/natural_language_processing/README.md
+      - Data Quality & Observability: docs/data_engineering/data_quality_&_observability/README.md
+      - Cloud ML Platforms: docs/mlops_and_production_ml/cloud_ml_platforms/README.md
+      - SE Best Practices: docs/python_for_data_science/software_engineering_best_practices/README.md
+      - Evaluating GenAI Models: docs/generative_ai_and_foundation_models/evaluation_of_generative_models/README.md
+      - Time Series & Forecasting: docs/specialised_domains/time_series_analysis_&_forecasting/README.md
+  - Changelog: CHANGELOG.md
+  - Contributing: CONTRIBUTING.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/viraj97-sl
+      name: viraj97-sl on GitHub
+    - icon: fontawesome/brands/github
+      link: https://github.com/viraj97-sl/ai-ml-ds-learning-hub
+      name: AI/ML/DS Learning Hub Repository
+
+copyright: Copyright &copy; 2026 viraj97-sl — MIT License

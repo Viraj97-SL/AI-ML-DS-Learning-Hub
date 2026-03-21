@@ -2,9 +2,9 @@ name: Check Links
 
 on:
   push:
-    branches: [main]
+    branches: [master, main]
   pull_request:
-    branches: [main]
+    branches: [master, main]
   schedule:
     # Run weekly to catch link rot
     - cron: '0 9 * * 1'

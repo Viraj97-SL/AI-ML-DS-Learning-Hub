@@ -10,6 +10,15 @@ MLOps (Machine Learning Operations) is the practice of applying DevOps principle
 *   [MLFlow Tutorial | ML Ops Tutorial](https://www.youtube.com/watch?v=6ngxBkx05Fs) — Learn MLFlow, an essential open-source tool for experiment tracking, model packaging, and deployment.
 *   [MLOps & Automation Workshop: Bringing ML to Production](https://www.youtube.com/watch?v=OhhHm02M0b8) — A practical workshop on the steps required to get a model into a production pipeline.
 *   [The Complete Machine Learning Roadmap](https://www.youtube.com/watch?v=7IgVGSaQPaw) — See where MLOps fits into the broader journey of becoming a machine learning engineer.
+*   [MLOps Guide by Chip Huyen](https://huyenchip.com/mlops/) — An excellent and comprehensive guide to the MLOps landscape, including links to her book "Designing Machine Learning Systems".
+*   [Book: Practical MLOps](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017) — A book on how to reliably deploy and maintain ML models in production using MLOps principles.
+*   [MLOps Explained in 10 Minutes](https://www.youtube.com/watch?v=9bf4hDi7_jk) — A quick and concise video for beginners to understand the core concepts of MLOps.
+*   [What is MLOps? (IBM)](https://www.youtube.com/watch?v=OejCJL2EC3k) — An explanation from IBM on the value and practice of MLOps.
+*   [Ultimate MLOps Full Course in One Video (12 Hours)](https://www.youtube.com/watch?v=w71RHxAWxaM) — A comprehensive, 12-hour deep dive into Machine Learning Operations.
+*   [MLOps Full Course (12 Hours) | Edureka](https://www.youtube.com/watch?v=Hq46GXuZnRM) — A massive 12-hour course from Edureka covering the MLOps lifecycle.
+*   [MLOps 2024 Course Playlist](https://www.youtube.com/playlist?list=PLkWRCY_kK0GjKIVHA6Jil4nviWjwcgbWZ) — A YouTube playlist covering the deployment of ML models in production.
+*   [Learn MLOps with MLflow and Databricks](https://www.youtube.com/watch?v=tVskbekONlw) — A full course for ML engineers focusing on the industry-standard tools MLflow and Databricks.
+*   [Background and Foundations for ML in Production](https://www.dailydoseofds.com/mlops-crash-course-part-1/) — An article covering the foundational concepts for putting ML models into real-world software systems.
 
 #### Projects & Exercises
 1.  **Track an Experiment:** Take a simple Scikit-learn model you've built before. Integrate MLFlow to log your model's parameters, performance metrics, and the model file itself. Try running it with different hyperparameters and compare the results in the MLFlow UI.

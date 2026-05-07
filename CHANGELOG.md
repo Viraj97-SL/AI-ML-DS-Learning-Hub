@@ -6,6 +6,28 @@ This project follows [Semantic Versioning](https://semver.org/). Format: `## [ve
 
 ---
 
+## [3.0.0] - 2026-05
+
+### Added — Hackathons & Recent Topics (Major Expansion)
+
+- `10_Hackathons/README.md` — Hub landing page with 3-theme overview, decision matrix, stack of record (MongoDB Atlas + AWS)
+- `10_Hackathons/templates/` — Canonical idea template, 90-second demo script template, judging rubric
+- `10_Hackathons/theme_1_prolonged_coordination/` — README + 33 research-grounded hackathon ideas (#1–#33)
+- `10_Hackathons/theme_2_multi_agent_collaboration/` — README + 44 ideas (#34–#77) including full A2A protocol coverage
+- `10_Hackathons/theme_3_adaptive_retrieval/` — README + 23 ideas (#78–#100) anchored on ColPali, Search-R1, GraphRAG, HippoRAG
+- `10_Hackathons/deep_dive_ideas/` — 10 full implementation blueprints (Viral Autopsy, Replicant, Portfall, Tipping Oracle, TruthWeight, ChronoLaw, Ghostwriter Forensics, Exodus Mapper, Protocol Darwin, Carbon Lie Detector)
+- `10_Hackathons/deep_dive_ideas/starter_code/` — 4 runnable Python skeletons (ReasoningBank, A2A handshake, ColPali indexing, GraphRAG + HippoRAG PPR)
+- `11_Recent_Topics/README.md` — Anchor papers index and usage guide
+- `11_Recent_Topics/2025_2026_trends.md` — 25-row trend tracker with maturity ratings and per-role learning guide
+- `11_Recent_Topics/stack_watch.md` — MongoDB Atlas, AWS, LLM landscape, retrieval stack, agent frameworks, LLMOps, fine-tuning tooling
+- `11_Recent_Topics/paper_digests/` — 12 paper digests: ReasoningBank, MIRIX, Zep, SagaLLM, VIGIL, Magentic-One, A2A Protocol, MCP, ColPali, Search-R1, GraphRAG, HippoRAG
+
+### Changed
+- `README.md` — What's New (May 2026) section reflects new 10_Hackathons and 11_Recent_Topics additions
+- `README.md` — Paper Digests link updated to point to `11_Recent_Topics/paper_digests/`
+
+---
+
 ## [2.0.0] - 2026-03
 
 ### Added

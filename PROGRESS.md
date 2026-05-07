@@ -172,6 +172,61 @@
 
 ---
 
+## Hackathons (10_Hackathons)
+
+### Theme 1 — Prolonged Coordination
+- [ ] Read [Theme 1 README](10_Hackathons/theme_1_prolonged_coordination/README.md)
+- [ ] Reviewed all 33 ideas in [ideas.md](10_Hackathons/theme_1_prolonged_coordination/ideas.md)
+- [ ] Built the ReasoningBank skeleton: [starter_code/01_reasoningbank_skeleton.py](10_Hackathons/deep_dive_ideas/starter_code/01_reasoningbank_skeleton.py)
+
+### Theme 2 — Multi-Agent Collaboration
+- [ ] Read [Theme 2 README](10_Hackathons/theme_2_multi_agent_collaboration/README.md)
+- [ ] Reviewed all 44 ideas in [ideas.md](10_Hackathons/theme_2_multi_agent_collaboration/ideas.md)
+- [ ] Built the A2A handshake skeleton: [starter_code/04_a2a_handshake.py](10_Hackathons/deep_dive_ideas/starter_code/04_a2a_handshake.py)
+
+### Theme 3 — Adaptive Retrieval
+- [ ] Read [Theme 3 README](10_Hackathons/theme_3_adaptive_retrieval/README.md)
+- [ ] Reviewed all 23 ideas in [ideas.md](10_Hackathons/theme_3_adaptive_retrieval/ideas.md)
+- [ ] Built the ColPali indexing skeleton: [starter_code/07_colpali_index.py](10_Hackathons/deep_dive_ideas/starter_code/07_colpali_index.py)
+- [ ] Built the GraphRAG + HippoRAG skeleton: [starter_code/09_graphrag_query.py](10_Hackathons/deep_dive_ideas/starter_code/09_graphrag_query.py)
+
+### Deep Dive Blueprints
+- [ ] Read blueprint README: [deep_dive_ideas/README.md](10_Hackathons/deep_dive_ideas/README.md)
+- [ ] Blueprint 01: [Viral Autopsy](10_Hackathons/deep_dive_ideas/01_viral_autopsy.md)
+- [ ] Blueprint 02: [Replicant](10_Hackathons/deep_dive_ideas/02_replicant.md)
+- [ ] Blueprint 03: [Portfall](10_Hackathons/deep_dive_ideas/03_portfall.md)
+- [ ] Blueprint 04: [Tipping Oracle](10_Hackathons/deep_dive_ideas/04_tipping_oracle.md)
+- [ ] Blueprint 05: [TruthWeight](10_Hackathons/deep_dive_ideas/05_truthweight.md)
+- [ ] Blueprint 06: [ChronoLaw](10_Hackathons/deep_dive_ideas/06_chronolaw.md)
+- [ ] Blueprint 07: [Ghostwriter Forensics](10_Hackathons/deep_dive_ideas/07_ghostwriter_forensics.md)
+- [ ] Blueprint 08: [Exodus Mapper](10_Hackathons/deep_dive_ideas/08_exodus_mapper.md)
+- [ ] Blueprint 09: [Protocol Darwin](10_Hackathons/deep_dive_ideas/09_protocol_darwin.md)
+- [ ] Blueprint 10: [Carbon Lie Detector](10_Hackathons/deep_dive_ideas/10_carbon_lie_detector.md)
+
+---
+
+## Recent Topics (11_Recent_Topics)
+
+### Trend Tracker & Stack Watch
+- [ ] Read [2025–2026 Trends](11_Recent_Topics/2025_2026_trends.md)
+- [ ] Read [Stack Watch](11_Recent_Topics/stack_watch.md)
+
+### Paper Digests (12 papers)
+- [ ] [ReasoningBank](11_Recent_Topics/paper_digests/reasoningbank.md)
+- [ ] [MIRIX](11_Recent_Topics/paper_digests/mirix.md)
+- [ ] [Zep Temporal KG](11_Recent_Topics/paper_digests/zep.md)
+- [ ] [SagaLLM](11_Recent_Topics/paper_digests/sagallm.md)
+- [ ] [VIGIL](11_Recent_Topics/paper_digests/vigil.md)
+- [ ] [Magentic-One](11_Recent_Topics/paper_digests/magentic_one.md)
+- [ ] [A2A Protocol](11_Recent_Topics/paper_digests/a2a_protocol.md)
+- [ ] [MCP](11_Recent_Topics/paper_digests/mcp.md)
+- [ ] [ColPali](11_Recent_Topics/paper_digests/colpali.md)
+- [ ] [Search-R1](11_Recent_Topics/paper_digests/search_r1.md)
+- [ ] [GraphRAG](11_Recent_Topics/paper_digests/graphrag.md)
+- [ ] [HippoRAG 2](11_Recent_Topics/paper_digests/hipporag.md)
+
+---
+
 ## Career & Portfolio
 
 - [ ] Read [Portfolio Guide](08_Career_Guide/portfolio_guide.md)

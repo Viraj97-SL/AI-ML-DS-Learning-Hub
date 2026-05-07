@@ -18,7 +18,7 @@
 
 <br/>
 
-**3 Career Tracks** | **100+ Curated Resources** | **50+ Hands-On Projects** | **Interview Prep** | **Hackathons & Competitions** | **Salary Guide**
+**3 Career Tracks** | **100+ Curated Resources** | **50+ Hands-On Projects** | **100 Hackathon Ideas** | **10 Deep Dive Blueprints** | **12 Paper Digests**
 
 </div>
 
@@ -28,10 +28,12 @@
 
 | Addition | Description |
 |----------|-------------|
-| [10_Hackathons/](10_Hackathons/) | 100+ research-grounded AI/ML hackathon ideas across 3 themes, plus 10 deep-dive blueprints (MongoDB Atlas + AWS). |
-| [11_Recent_Topics/](11_Recent_Topics/) | 2025–2026 Trend Tracker, Stack Watch, and digests of the latest bleeding-edge papers. |
-| [RepoSentinel](#-reposentinel-the-autonomous-maintainer) | Integration with our autonomous multi-agent system that continuously updates this repo with fresh content. |
-| [09_Competitions/](09_Competitions/) | Full competitive ML guide: Kaggle deep-dive, platform comparison, winning strategies, 20 landmark competitions |
+| [10_Hackathons/](10_Hackathons/) | **100 research-grounded hackathon ideas** across 3 themes (Prolonged Coordination, Multi-Agent Collaboration, Adaptive Retrieval). All anchored on MongoDB Atlas + AWS Bedrock. |
+| [Deep Dive Blueprints](10_Hackathons/deep_dive_ideas/) | **10 full implementation blueprints** with architecture diagrams, MongoDB schemas, 90-second demo scripts, and runnable Python starter code. Includes Viral Autopsy, Portfall, Carbon Lie Detector, and 7 more. |
+| [Starter Code](10_Hackathons/deep_dive_ideas/starter_code/) | **4 runnable Python skeletons**: ReasoningBank (LangGraph + MongoDB), A2A handshake, ColPali indexing pipeline, GraphRAG + HippoRAG PPR. |
+| [11_Recent_Topics/](11_Recent_Topics/) | **2025–2026 Trend Tracker** (25 hot topics with maturity ratings), **Stack Watch** (MongoDB, AWS Bedrock, 13 LLM models), and **12 paper digests**. |
+| [Paper Digests](11_Recent_Topics/paper_digests/) | 5-minute digests of the 12 most hackathon-relevant papers: ReasoningBank, Zep, SagaLLM, A2A, MCP, ColPali, Search-R1, GraphRAG, HippoRAG, and more. |
+| [09_Competitions/](09_Competitions/) | Full competitive ML guide: Kaggle deep-dive, platform comparison, winning strategies, 20 landmark competitions. |
 
 ---
 
@@ -150,9 +152,17 @@ Before diving into any track, build these foundations:
 
 Theory needs practice. We provide comprehensive guides for both competitive ML and rapid-prototyping events:
 
-- **[Hackathon Ideas Hub](10_Hackathons/)** - 100+ research-grounded ideas tailored for MongoDB Atlas + AWS. Explores themes like Prolonged Coordination, Multi-Agent Collaboration, and Adaptive Retrieval. Includes 10 maximum-wow **[Deep Dive Blueprints](10_Hackathons/deep_dive_ideas/)**.
-- **[Competitions Overview](09_Competitions/)** - Platforms compared, Kaggle deep-dive, API setup, and 10 must-know tricks with code.
-- **[Winning Strategies](09_Competitions/winning_strategies.md)** - Feature engineering, ensembling, Optuna, and leakage prevention.
+**Hackathon Ideas Hub — 100 ideas, 3 themes, 10 blueprints:**
+
+| Theme | Focus | Ideas | Key Stack |
+|-------|-------|-------|-----------|
+| [Theme 1: Prolonged Coordination](10_Hackathons/theme_1_prolonged_coordination/) | Durable agents surviving weeks/months | 33 ideas | LangGraph + MongoDB checkpointer + EventBridge |
+| [Theme 2: Multi-Agent Collaboration](10_Hackathons/theme_2_multi_agent_collaboration/) | A2A protocol, EVINCE debate, agent swarms | 44 ideas | A2A + MongoDB Change Streams + Bedrock |
+| [Theme 3: Adaptive Retrieval](10_Hackathons/theme_3_adaptive_retrieval/) | Self-improving RAG with bandit routing | 23 ideas | ColPali + HippoRAG + Voyage rerank-2.5 |
+
+- **[10 Deep Dive Blueprints](10_Hackathons/deep_dive_ideas/)** — Full architecture, MongoDB schemas, 90-second demo scripts, build order, judging rubric alignment
+- **[Starter Code](10_Hackathons/deep_dive_ideas/starter_code/)** — 4 runnable Python skeletons to get to a working demo in < 2 hours
+- **[Competitions Overview](09_Competitions/)** — Kaggle deep-dive, platform comparison, winning strategies with code
 
 ---
 
@@ -172,7 +182,7 @@ Keep up with the bleeding edge. AI/ML moves fast, and this section tracks what i
 
 - **[2025–2026 Trend Tracker](11_Recent_Topics/2025_2026_trends.md)** - Emerging paradigms like Reasoning Models (o1, DeepSeek-R1), SLMs, and LLMOps.
 - **[Stack Watch](11_Recent_Topics/stack_watch.md)** - The infrastructure and tooling movements that matter.
-- **[Paper Digests](11_Recent_Topics/)** - Syntheses of landmark papers and concepts every practitioner should know.
+- **[Paper Digests](11_Recent_Topics/paper_digests/)** - 12 digests of landmark 2024–2025 papers: ReasoningBank, A2A, MCP, ColPali, Search-R1, GraphRAG, HippoRAG, and more.
 
 ---
 

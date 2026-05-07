@@ -2,15 +2,14 @@
 
 # The Complete AI/ML/Data Science Learning Hub
 
-### Your definitive roadmap from zero to career-ready — for Data Scientists, ML Engineers & AI Engineers
+### Your definitive roadmap from zero to career-ready - for Data Scientists, ML Engineers & AI Engineers
 
 [![Stars](https://img.shields.io/github/stars/viraj97-sl/ai-ml-ds-learning-hub?style=for-the-badge&logo=github&color=FFD700)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub)
-
 [![Forks](https://img.shields.io/github/forks/viraj97-sl/ai-ml-ds-learning-hub?style=for-the-badge&logo=github&color=blue)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub/fork)
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/viraj97-sl/ai-ml-ds-learning-hub/check-links.yml?style=for-the-badge&label=Link+Check)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-blue.svg?style=for-the-badge)](.)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-blue.svg?style=for-the-badge)](.)
 [![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-orange.svg?style=for-the-badge)](00_Overview/how_to_use.md)
 
 <br/>
@@ -19,19 +18,20 @@
 
 <br/>
 
-**3 Career Tracks** | **100+ Curated Resources** | **50+ Hands-On Projects** | **Interview Prep** | **Competitions Guide** | **Salary Guide**
+**3 Career Tracks** | **100+ Curated Resources** | **50+ Hands-On Projects** | **Interview Prep** | **Hackathons & Competitions** | **Salary Guide**
 
 </div>
 
 ---
 
-## What's New (March 2026)
+## What's New (May 2026)
 
 | Addition | Description |
 |----------|-------------|
+| [10_Hackathons/](10_Hackathons/) | 100+ research-grounded AI/ML hackathon ideas across 3 themes, plus 10 deep-dive blueprints (MongoDB Atlas + AWS). |
+| [11_Recent_Topics/](11_Recent_Topics/) | 2025–2026 Trend Tracker, Stack Watch, and digests of the latest bleeding-edge papers. |
+| [RepoSentinel](#-reposentinel-the-autonomous-maintainer) | Integration with our autonomous multi-agent system that continuously updates this repo with fresh content. |
 | [09_Competitions/](09_Competitions/) | Full competitive ML guide: Kaggle deep-dive, platform comparison, winning strategies, 20 landmark competitions |
-| [Learning Roadmaps](00_Overview/learning_roadmaps.md) | Mermaid flowcharts for all 3 tracks with time estimates and prerequisite matrix |
-| [Reasoning Models Notebook](03_AI_Engineer/advanced/07_reasoning_models.ipynb) | o1, o3, DeepSeek-R1, chain-of-thought, cost/latency tradeoffs, smart routing pipeline |
 
 ---
 
@@ -39,11 +39,12 @@
 
 The internet is full of scattered tutorials. This repo is different:
 
-- **Structured pathways** — not random links, but a curated journey from beginner to expert
-- **Role-specific** — tailored tracks for 3 distinct, high-demand careers
-- **Hands-on first** — learn by building real projects, not just watching videos
-- **Industry-aligned** — skills and stacks that companies actually hire for (2024-2025)
-- **Free** — 95% of resources linked are free or open-source
+- **Structured pathways** - not random links, but a curated journey from beginner to expert
+- **Role-specific** - tailored tracks for 3 distinct, high-demand careers
+- **Hands-on first** - learn by building real projects, not just watching videos
+- **Industry-aligned** - skills and stacks that companies actually hire for (2025-2026)
+- **Free** - 95% of resources linked are free or open-source
+- **Autonomously Updated** - Managed by AI to ensure the content never goes stale
 
 ---
 
@@ -60,13 +61,15 @@ The internet is full of scattered tutorials. This repo is different:
 | Preparing for interviews | [Interview Prep →](06_Interview_Prep/) |
 | Looking for projects to build | [Hands-On Labs →](05_Hands_On_Labs/) |
 | Preparing for Kaggle / competitions | [Competitions →](09_Competitions/) |
+| Brainstorming for a Hackathon | [Hackathons →](10_Hackathons/) |
+| Want the bleeding-edge trends | [Recent Topics →](11_Recent_Topics/) |
 | Negotiating a salary | [Salary Guide →](08_Career_Guide/salary_guide.md) |
 
----
+
 
 ## The Three Pillars
 
-```
+~~~
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
 │   DATA SCIENTIST          ML ENGINEER           AI ENGINEER         │
@@ -81,11 +84,11 @@ The internet is full of scattered tutorials. This repo is different:
 │                                                                     │
 │   [Explore →]            [Explore →]            [Explore →]         │
 └─────────────────────────────────────────────────────────────────────┘
-```
 
+~~~~
 > Not sure which to choose? Read the [in-depth comparison →](00_Overview/role_comparison.md)
 
----
+
 
 ## Learning Tracks
 
@@ -135,22 +138,21 @@ The internet is full of scattered tutorials. This repo is different:
 
 Before diving into any track, build these foundations:
 
-- **[Mathematics & Statistics](04_Foundations/mathematics/)** — Linear algebra, calculus, probability
-- **[Python Programming](04_Foundations/programming/)** — From syntax to software engineering
-- **[Statistics for DS/ML](04_Foundations/statistics/)** — Hypothesis testing, distributions, Bayesian thinking
+- **[Mathematics & Statistics](04_Foundations/mathematics/)** - Linear algebra, calculus, probability
+- **[Python Programming](04_Foundations/programming/)** - From syntax to software engineering
+- **[Statistics for DS/ML](04_Foundations/statistics/)** - Hypothesis testing, distributions, Bayesian thinking
 
 > Not sure where you fit? Check the [Learning Roadmaps →](00_Overview/learning_roadmaps.md) for Mermaid flowcharts with time estimates for each track.
 
 ---
 
-## Competitions
+## Hackathons & Competitions
 
-Competitive ML is the fastest path from theory to real-world skill:
+Theory needs practice. We provide comprehensive guides for both competitive ML and rapid-prototyping events:
 
-- **[Competitions Overview](09_Competitions/README.md)** — Platforms compared, getting started guide, competition lifecycle
-- **[Kaggle Deep Dive](09_Competitions/kaggle_guide.md)** — API setup, strategy by type, 10 must-know tricks with code
-- **[Winning Strategies](09_Competitions/winning_strategies.md)** — Feature engineering, ensembling, Optuna, leakage prevention
-- **[Landmark Competitions](09_Competitions/past_competitions.md)** — 20 landmark competitions across tabular, NLP, CV, time series
+- **[Hackathon Ideas Hub](10_Hackathons/)** - 100+ research-grounded ideas tailored for MongoDB Atlas + AWS. Explores themes like Prolonged Coordination, Multi-Agent Collaboration, and Adaptive Retrieval. Includes 10 maximum-wow **[Deep Dive Blueprints](10_Hackathons/deep_dive_ideas/)**.
+- **[Competitions Overview](09_Competitions/)** - Platforms compared, Kaggle deep-dive, API setup, and 10 must-know tricks with code.
+- **[Winning Strategies](09_Competitions/winning_strategies.md)** - Feature engineering, ensembling, Optuna, and leakage prevention.
 
 ---
 
@@ -158,15 +160,40 @@ Competitive ML is the fastest path from theory to real-world skill:
 
 > Learning by doing is 10x more effective than passive consumption.
 
-- **[Interactive Notebooks](05_Hands_On_Labs/notebooks/)** — Jupyter notebooks with exercises and solutions
-- **[Mini-Projects](05_Hands_On_Labs/mini_projects/)** — 1-3 day projects to cement concepts
-- **[Capstone Projects](01_Data_Scientist/projects/)** — Portfolio-worthy end-to-end projects
+- **[Interactive Notebooks](05_Hands_On_Labs/notebooks/)** - Jupyter notebooks with exercises and solutions
+- **[Mini-Projects](05_Hands_On_Labs/mini_projects/)** - 1-3 day projects to cement concepts
+- **[Capstone Projects](01_Data_Scientist/projects/)** - Portfolio-worthy end-to-end projects
+
+---
+
+## Recent Topics & Trends
+
+Keep up with the bleeding edge. AI/ML moves fast, and this section tracks what is actually viable for production vs. what is still in the lab.
+
+- **[2025–2026 Trend Tracker](11_Recent_Topics/2025_2026_trends.md)** - Emerging paradigms like Reasoning Models (o1, DeepSeek-R1), SLMs, and LLMOps.
+- **[Stack Watch](11_Recent_Topics/stack_watch.md)** - The infrastructure and tooling movements that matter.
+- **[Paper Digests](11_Recent_Topics/)** - Syntheses of landmark papers and concepts every practitioner should know.
+
+---
+
+## 🤖 RepoSentinel: The Autonomous Maintainer
+
+This repository is kept fresh, well-organized, and continuously improving by **[RepoSentinel](https://github.com/viraj97-sl/reposentinel)** - an autonomous multi-agent system.
+
+Instead of relying solely on manual updates, RepoSentinel runs a continuous pipeline to:
+1. **Analyze** the repo against a curated DS/ML/AI topic taxonomy to identify content gaps and stale material.
+2. **Scout** the web (arXiv, YouTube, GitHub, Tavily) for high-quality, up-to-date resources.
+3. **Synthesize** updates by merging new findings directly into our existing Markdown files.
+4. **Validate** via a strict 5-check quality gate (formatting, link validity, syntax, deduplication, and completeness).
+5. **Publish** approved changes autonomously via Pull Requests.
+
+Thanks to RepoSentinel's cross-run memory and self-improvement loop, this Learning Hub evolves at the speed of the AI industry itself.
 
 ---
 
 ## Career Resources
 
-- **[Salary Guide 2025](08_Career_Guide/salary_guide.md)** — Compensation by role, level, location
+- **[Salary Guide 2025/2026](08_Career_Guide/salary_guide.md)** — Compensation by role, level, location
 - **[Interview Prep](06_Interview_Prep/)** — 200+ questions with answers by role
 - **[Portfolio Guide](08_Career_Guide/portfolio_guide.md)** — How to stand out to hiring managers
 - **[Resume Templates](08_Career_Guide/resume_guide.md)** — ATS-friendly templates per role
@@ -212,7 +239,7 @@ Use the skill badge system to track your journey:
 
 ## Contributing
 
-This is a living document. Contributions are warmly welcomed!
+This is a living document. Contributions are warmly welcomed alongside RepoSentinel's automated updates!
 
 - Found a broken link? Open an issue.
 - Have a better resource? Submit a PR.
@@ -222,13 +249,13 @@ This is a living document. Contributions are warmly welcomed!
 
 ## License
 
-MIT License — free to use, share, and build upon with attribution.
+MIT License - free to use, share, and build upon with attribution.
 
 ---
 
 <div align="center">
 
-**If this repo helped you, please give it a ⭐ — it helps others find it!**
+**If this repo helped you, please give it a ⭐ - it helps others find it!**
 
 ---
 
@@ -240,7 +267,7 @@ A massive thank you to everyone who has contributed to this learning hub!
   <img src="https://contrib.rocks/image?repo=viraj97-sl/ai-ml-ds-learning-hub&v=1" alt="Contributors list"/>
 </a>
 
-Made with passion for the learning community | Updated March 2026
+Made with passion for the learning community | Updated May 2026
 
 ---
 

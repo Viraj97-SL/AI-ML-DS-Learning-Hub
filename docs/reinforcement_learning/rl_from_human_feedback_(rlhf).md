@@ -19,14 +19,18 @@ Reinforcement Learning (RL) is a fascinating area of machine learning where an "
 
 #### Full Courses & Tutorials
 - [Hands-on Reinforcement Learning Course](https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/) - A step-by-step, code-focused course that takes you from zero to hero.
+- [Practical_RL (Yandex)](https://github.com/yandexdataschool/practical_rl) - A practical, hands-on course in reinforcement learning from Yandex School of Data Analysis, available on GitHub.
 - [Reinforcement Learning in 3 Hours (Full Course)](https://www.youtube.com/watch?v=Mut_u40Sqz4) - A practical, condensed course to get you up and running with RL.
 - [Getting Started with RL (Python Tutorial)](https://wandb.ai/byyoung3/Generative-AI/reports/Getting-started-with-reinforcement-learning-with-a-Python-tutorial---VmlldzoxMjMxNjY1MA) - A tutorial from Weights & Biases with a hands-on Python example.
+- [Reinforcement Learning Tutorial for Beginners (NVIDIA Collab)](https://www.reddit.com/r/reinforcementlearning/comments/1poal0x/reinforcement_learning_tutorial_for_beginners/) - A beginner's guide and tutorial created in collaboration with NVIDIA, shared on Reddit.
+- [Comprehensive Guide to Starting AI Reinforcement Learning in 2025](https://vertu.com/ai-tools/ai-reinforcement-learning-guide-2025) - A step-by-step guide on getting started with RL, including tools and frameworks.
 - [Simplilearn: Reinforcement Learning Full Course](https://www.youtube.com/watch?v=YUbFQlMXShY) - A comprehensive course covering RL within the broader context of machine learning.
 - [Deep Reinforcement Learning Tutorial with Python Code](https://www.youtube.com/watch?v=WxjEZmIiRQU) - A focused tutorial on the intersection of deep learning and RL.
 - [Deep Q-Learning From Paper to Code](https://www.youtube.com/watch?v=AR0Mjl4jwVk) - A preview of a course that shows how to implement a foundational Deep RL algorithm.
 
 #### Books & Papers
 - [Reinforcement Learning: Theory and Python Implementation](https://link.springer.com/book/10.1007/978-981-19-4933-3) - A book covering both the theory and practical Python implementation of RL algorithms. ([Amazon Link](https://www.amazon.com/Reinforcement-Learning-Theory-Python-Implementation/dp/9811949328))
+- [simple_rl: Reproducible Reinforcement Learning in Python (PDF)](https://david-abel.github.io/papers/simple_rl.pdf) - A paper introducing `simple_rl`, a Python library for reproducible reinforcement learning experiments.
 - [Python-Based Reinforcement Learning on Simulink Models (arXiv)](https://arxiv.org/abs/2405.08567) - A research paper on a framework for training RL agents with Python and Simulink.
 
 #### Code & Projects

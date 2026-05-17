@@ -19,6 +19,14 @@ MLOps (Machine Learning Operations) is the practice of applying DevOps principle
 *   [MLOps 2024 Course Playlist](https://www.youtube.com/playlist?list=PLkWRCY_kK0GjKIVHA6Jil4nviWjwcgbWZ) — A YouTube playlist covering the deployment of ML models in production.
 *   [Learn MLOps with MLflow and Databricks](https://www.youtube.com/watch?v=tVskbekONlw) — A full course for ML engineers focusing on the industry-standard tools MLflow and Databricks.
 *   [Background and Foundations for ML in Production](https://www.dailydoseofds.com/mlops-crash-course-part-1/) — An article covering the foundational concepts for putting ML models into real-world software systems.
+*   [MLOps: Continuous delivery and automation pipelines in machine learning | Google Cloud](https://docs.cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) — Official documentation from Google on implementing CI/CD and automation for ML.
+*   [MLOps Zoomcamp by DataTalks.Club](https://datatalks.club/blog/mlops-zoomcamp.html) — A free, project-based MLOps course covering MLflow, Docker, AWS, and monitoring tools.
+*   [Machine Learning Operations (MLOps): Overview, Definition, and Architecture (arXiv Paper)](https://arxiv.org/pdf/2205.02302) — A comprehensive academic paper that provides a formal overview and definition of MLOps.
+*   [Complete Guide to MLOps: 10 Essential Steps](https://levelup.gitconnected.com/complete-guide-to-mlops-10-essential-steps-from-a-birds-eye-view-e41e3f52bbf2) — An article that breaks down the process of turning a notebook into a production-ready system into ten key steps.
+*   [MLOps Course 2025: From Model to Production](https://www.youtube.com/playlist?list=PL7E7TYb0_SgHM0OLqbRwS0i-q89lsfEq6) — A modern YouTube course playlist for 2025, covering the journey from model development to production deployment.
+*   [A Beginner-to-Upper Intermediate Data Science Roadmap for 2025](https://todatabeyond.substack.com/p/a-beginner-to-upper-intermediate-b79) — A detailed roadmap that includes a section on MLOps fundamentals, placing it within the broader data science learning path.
+*   [Beginner End-to-end MLOps Project Showcase (Reddit)](https://www.reddit.com/r/mlops/comments/1h3kybz/beginner_endtoend_mlops_project_showcase/) — A Reddit thread showcasing a complete MLOps project, useful for seeing a practical, real-world example.
+*   [Introducing MLOps to Facilitate the Development of Machine ... (IEEE Paper)](https://ieeexplore.ieee.org/iel8/6287639/10820123/11072436.pdf) — An academic paper discussing how MLOps enhances reproducibility and transparency in ML projects.
 
 #### Projects & Exercises
 1.  **Track an Experiment:** Take a simple Scikit-learn model you've built before. Integrate MLFlow to log your model's parameters, performance metrics, and the model file itself. Try running it with different hyperparameters and compare the results in the MLFlow UI.

@@ -1,4 +1,4 @@
-```markdown
+
 ## Generative AI & Foundation Models
 
 ### Overview

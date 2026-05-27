@@ -27,6 +27,7 @@ MLOps (Machine Learning Operations) is the practice of applying DevOps principle
 *   [A Beginner-to-Upper Intermediate Data Science Roadmap for 2025](https://todatabeyond.substack.com/p/a-beginner-to-upper-intermediate-b79) — A detailed roadmap that includes a section on MLOps fundamentals, placing it within the broader data science learning path.
 *   [Beginner End-to-end MLOps Project Showcase (Reddit)](https://www.reddit.com/r/mlops/comments/1h3kybz/beginner_endtoend_mlops_project_showcase/) — A Reddit thread showcasing a complete MLOps project, useful for seeing a practical, real-world example.
 *   [Introducing MLOps to Facilitate the Development of Machine ... (IEEE Paper)](https://ieeexplore.ieee.org/iel8/6287639/10820123/11072436.pdf) — An academic paper discussing how MLOps enhances reproducibility and transparency in ML projects.
+*   [The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning](http://arxiv.org/abs/2405.22800v1) — An academic paper on robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation.
 
 #### Projects & Exercises
 1.  **Track an Experiment:** Take a simple Scikit-learn model you've built before. Integrate MLFlow to log your model's parameters, performance metrics, and the model file itself. Try running it with different hyperparameters and compare the results in the MLFlow UI.

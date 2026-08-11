@@ -233,7 +233,7 @@
 - [ ] Created a portfolio GitHub README
 - [ ] Published at least 3 projects on GitHub
 - [ ] Updated LinkedIn with new skills
-- [ ] Read [Salary Guide](08_Career_Guide/salary_guide.md) for my target role
+- [ ] Read [Salary Guide](00_Overview/salary_guide.md) for my target role
 - [ ] Joined at least 1 community (Discord, Slack, etc.)
 
 ---

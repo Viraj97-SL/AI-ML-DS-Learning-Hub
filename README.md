@@ -65,7 +65,7 @@ The internet is full of scattered tutorials. This repo is different:
 | Preparing for Kaggle / competitions | [Competitions →](09_Competitions/) |
 | Brainstorming for a Hackathon | [Hackathons →](10_Hackathons/) |
 | Want the bleeding-edge trends | [Recent Topics →](11_Recent_Topics/) |
-| Negotiating a salary | [Salary Guide →](08_Career_Guide/salary_guide.md) |
+| Negotiating a salary | [Salary Guide →](00_Overview/salary_guide.md) |
 
 
 
@@ -203,7 +203,7 @@ Thanks to RepoSentinel's cross-run memory and self-improvement loop, this Learni
 
 ## Career Resources
 
-- **[Salary Guide 2025/2026](08_Career_Guide/salary_guide.md)** — Compensation by role, level, location
+- **[Salary Guide 2025/2026](00_Overview/salary_guide.md)** — Compensation by role, level, location
 - **[Interview Prep](06_Interview_Prep/)** — 200+ questions with answers by role
 - **[Portfolio Guide](08_Career_Guide/portfolio_guide.md)** — How to stand out to hiring managers
 - **[Resume Templates](08_Career_Guide/resume_guide.md)** — ATS-friendly templates per role

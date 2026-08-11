@@ -13,7 +13,7 @@
 | 1 | Python Data Science Handbook | Jake VanderPlas | Beginner-Int | [Yes (GitHub)](https://github.com/jakevdp/PythonDataScienceHandbook) | Best intro to numpy/pandas/matplotlib/sklearn |
 | 2 | Python for Data Analysis | Wes McKinney | Beginner-Int | No (cheap) | The definitive pandas book — by the creator |
 | 3 | Think Stats | Allen Downey | Beginner | [Yes (free)](https://greenteapress.com/thinkstats2/) | Statistics with Python, programmer-friendly |
-| 4 | Think Bayes | Allen Downey | Intermediate | [Yes (free)](https://greenteapress.com/thinkbayes2/) | Bayesian statistics in Python — excellent |
+| 4 | Think Bayes | Allen Downey | Intermediate | [Yes (free)](https://greenteapress.com/wp/think-bayes/) | Bayesian statistics in Python — excellent |
 | 5 | Naked Statistics | Charles Wheelan | Beginner | No | Non-technical, great for intuition |
 | 6 | The Art of Statistics | David Spiegelhalter | Beginner-Int | No | Modern, readable statistics book |
 | 7 | Data Science from Scratch | Joel Grus | Beginner-Int | No | Implements DS algorithms from scratch — great for understanding |

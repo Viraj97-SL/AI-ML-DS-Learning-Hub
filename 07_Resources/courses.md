@@ -329,7 +329,7 @@
 ---
 
 ### 🏅 dbt (data build tool)
-> **Certification:** https://www.getdbt.com/dbt-learn/dbt-certification/
+> **Certification:** https://www.getdbt.com/dbt-learn
 > **Free prep:** dbt Learn (https://courses.getdbt.com) — official free courses
 
 | Certification | Cost | Best For |

@@ -240,6 +240,12 @@ Use this to track your progress. Fork this repo and check off as you complete ea
 - [Mode Analytics](https://mode.com) — SQL for analysis
 - [StrataScratch](https://stratascratch.com) — DS interview questions
 
+### Certifications Worth Getting
+- Microsoft Certified: Azure Data Scientist Associate
+- Google Advanced Data Analytics Professional Certificate
+- IBM Data Science Professional Certificate
+- AWS Certified Machine Learning — Specialty (if working cloud-side)
+
 ---
 
 ## Interview Preparation

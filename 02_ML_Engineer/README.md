@@ -170,9 +170,12 @@ PHASE 4: Advanced (3-5 months)
 | [Designing ML Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) | Chip Huyen's seminal book |
 
 ### Certifications Worth Getting
+- AWS Certified Machine Learning Engineer — Associate (newer, hands-on SageMaker/MLOps focus)
 - AWS Certified Machine Learning — Specialty
-- Google Professional ML Engineer
-- Databricks Certified ML Professional
+- Google Professional Machine Learning Engineer
+- Microsoft Certified: Azure Data Scientist Associate
+- Databricks Certified Machine Learning Associate / Professional
+- NVIDIA DLI certificates (deep learning, LLM inference, MLOps on GPU infra)
 
 ---
 

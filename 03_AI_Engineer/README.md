@@ -236,6 +236,12 @@ Thought → Action → Observation → Thought → ... → Final Answer
 | LangChain Academy | LangChain | Self-paced |
 | Hugging Face NLP Course | Hugging Face | Self-paced |
 
+### Certifications Worth Getting
+- IBM AI Engineering Professional Certificate (Coursera) — RAG, agents, LangChain end-to-end
+- IBM RAG and Agentic AI Professional Certificate (Coursera)
+- AWS Certified AI Practitioner
+- Microsoft Certified: Azure AI Engineer Associate
+
 ### Essential Reading (Free)
 | Resource | Link |
 |----------|------|

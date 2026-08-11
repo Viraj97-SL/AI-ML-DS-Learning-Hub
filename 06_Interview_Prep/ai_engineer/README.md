@@ -317,6 +317,34 @@ Anti-hallucination measures:
    - Domain expert review (medical, legal, financial)
 ```
 
+**Q9: A multi-agent system you designed occasionally takes a destructive action based on a bad tool call. How do you prevent this?**
+
+> Agent questions are really risk-management questions — interviewers want guardrails, not just architecture.
+>
+> - **Confirm before destructive actions**: require a second, cheaper validation step (rule-based check or a smaller model) before any tool call that writes, deletes, or spends money
+> - **Human-in-the-loop fallback**: route low-confidence or high-blast-radius actions to a human approval queue instead of auto-executing
+> - **Least-privilege tools**: scope each tool's permissions so the worst-case failure is bounded (e.g., a "refund" tool that can only refund ≤ $50 without approval)
+> - **Structured output validation**: reject and retry tool calls that don't pass schema/business-rule validation instead of executing them
+> - **Circuit breakers**: track failure/anomaly rate per tool and disable it automatically if it exceeds a threshold
+> - **Audit trail**: log every tool call with the reasoning trace that led to it, so failures are debuggable after the fact
+
+**Q10: Your RAG system's frontier-model latency is unacceptable (p99 > 3s) but quality can't drop. How do you fix this without a worse model?**
+
+> This tests whether you can make cost/latency tradeoffs explicit rather than just picking "a faster model."
+>
+> - **Model routing**: use a cheap/fast model to classify query difficulty; only route genuinely hard queries to the frontier model
+> - **Tighten retrieval**: reduce top-k, use a smaller/faster embedding model, and let reranking (not a huge k) carry precision
+> - **Caching**: cache embeddings and, for repeated/similar queries, cache full responses (semantic cache) to skip generation entirely
+> - **Streaming**: stream tokens so perceived latency drops even if total latency doesn't
+> - **Parallelize, don't chain**: run retrieval and any independent tool calls concurrently instead of sequentially
+> - **Separate evaluation**: measure retrieval quality and answer quality independently, so you know which part of the pipeline you're actually allowed to speed up
+
+---
+
+## Context Engineering (2026)
+
+Interviewers increasingly distinguish **context engineering** from prompt engineering: prompt engineering is about wording a single instruction well; context engineering is about deciding *what information the model sees at all* — what to retrieve, what to summarize, what to drop, and how to structure it within the context window as a task gets longer or more agentic. Expect questions on: managing context window budget across multi-turn/multi-tool sessions, when to summarize vs. truncate vs. retrieve-on-demand, and how context rot (irrelevant/stale content crowding out the signal) degrades agent performance over long sessions.
+
 ---
 
 ## Behavioral Questions for AI Engineers

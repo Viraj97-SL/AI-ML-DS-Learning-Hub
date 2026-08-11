@@ -9,7 +9,7 @@
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/viraj97-sl/ai-ml-ds-learning-hub/check-links.yml?style=for-the-badge&label=Link+Check)](https://github.com/viraj97-sl/ai-ml-ds-learning-hub/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-blue.svg?style=for-the-badge)](.)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202026-blue.svg?style=for-the-badge)](.)
 [![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-orange.svg?style=for-the-badge)](00_Overview/how_to_use.md)
 
 <br/>
@@ -23,6 +23,15 @@
 </div>
 
 ---
+
+## What's New (August 2026)
+
+| Addition | Description |
+|----------|-------------|
+| **Certifications, all 3 tracks** | Expanded/added "Certifications Worth Getting" for [Data Scientist](01_Data_Scientist/README.md), [ML Engineer](02_ML_Engineer/README.md) (AWS ML Engineer Associate, NVIDIA DLI), and [AI Engineer](03_AI_Engineer/README.md) (IBM AI Engineering + RAG/Agentic AI certs, AWS AI Practitioner, Azure AI Engineer Associate) — the AIE track had none before. |
+| **AI Engineer interview prep, deepened** | New [agent guardrails/failure-mode](06_Interview_Prep/ai_engineer/) and cost-latency-tradeoff questions, plus a **Context Engineering** primer distinguishing it from prompt engineering. |
+| **Context Engineering trend** | Added to the [Trend Tracker](11_Recent_Topics/2025_2026_trends.md) as a distinct, production-ready practice from prompt engineering — context window budgeting, retrieve-vs-summarize-vs-truncate, context rot. |
+| **All links repaired** | Fixed 37 broken links (dead external resources, mis-depth relative paths, renamed notebooks) and the `mkdocs build --strict` config error blocking GitHub Pages deploys — both CI checks are green again. |
 
 ## What's New (May 2026)
 
@@ -277,7 +286,7 @@ A massive thank you to everyone who has contributed to this learning hub!
   <img src="https://contrib.rocks/image?repo=viraj97-sl/ai-ml-ds-learning-hub&v=1" alt="Contributors list"/>
 </a>
 
-Made with passion for the learning community | Updated May 2026
+Made with passion for the learning community | Updated August 2026
 
 ---
 

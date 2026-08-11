@@ -37,10 +37,10 @@
 | Dataset | Size | Task | Link | Notes |
 |---------|------|------|------|-------|
 | **IMDB Reviews** | 50K reviews | Sentiment | [Hugging Face](https://huggingface.co/datasets/imdb) | Binary sentiment benchmark |
-| **SST-2** | 67K sentences | Sentiment | [Hugging Face](https://huggingface.co/datasets/sst2) | Stanford fine-grained sentiment |
-| **AG News** | 120K articles | Text classification | [Hugging Face](https://huggingface.co/datasets/ag_news) | 4-class news categorization |
-| **SQuAD 2.0** | 150K Q&A pairs | Extractive QA | [HF Datasets](https://huggingface.co/datasets/squad_v2) | Reading comprehension |
-| **MultiNLI** | 433K pairs | NLI / Entailment | [Hugging Face](https://huggingface.co/datasets/multi_nli) | Sentence pair classification |
+| **SST-2** | 67K sentences | Sentiment | [Hugging Face](https://huggingface.co/datasets/stanfordnlp/sst2) | Stanford fine-grained sentiment |
+| **AG News** | 120K articles | Text classification | [Hugging Face](https://huggingface.co/datasets/fancyzhx/ag_news) | 4-class news categorization |
+| **SQuAD 2.0** | 150K Q&A pairs | Extractive QA | [HF Datasets](https://huggingface.co/datasets/rajpurkar/squad_v2) | Reading comprehension |
+| **MultiNLI** | 433K pairs | NLI / Entailment | [Hugging Face](https://huggingface.co/datasets/nyu-mll/multi_nli) | Sentence pair classification |
 | **CommonCrawl** | Petabytes | Pre-training | [commoncrawl.org](https://commoncrawl.org/) | Raw web text |
 | **Wikipedia** | 6.7M articles | QA, summarization | [HF Datasets](https://huggingface.co/datasets/wikipedia) | High-quality text |
 | **Amazon Reviews** | 82M reviews | Sentiment, recommendation | [UCSD JMCAULEY](https://nijianmo.github.io/amazon/) | Product review analysis |

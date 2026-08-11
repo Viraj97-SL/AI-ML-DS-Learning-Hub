@@ -200,7 +200,7 @@
 - **[Blind](https://teamblind.com)** — Anonymous tech salary discussions
 - **[BuiltIn Cities](https://builtin.com/salaries)** — Tech salaries by city
 - **[H1B Salary Database](https://h1bdata.info)** — Public data from visa filings (very accurate)
-- **[WARN Act Notices](https://warn.dlt.ri.gov)** — Layoff data to understand market health
+- **[WARN Act Notices](https://dlt.ri.gov/employers/worker-adjustment-and-retraining-notification-warn)** — Layoff data to understand market health
 
 ---
 

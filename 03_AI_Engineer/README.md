@@ -62,6 +62,7 @@ PHASE 4: Expert (Ongoing)
 | Evaluation | RAGAS, DeepEval, LangSmith, custom evals |
 | Deployment | FastAPI, Modal, Hugging Face Spaces, Streamlit |
 | Observability | LangSmith, Arize Phoenix, Helicone |
+| Responsible AI | Bias detection, Fairness metrics, Explainability (XAI), Guardrails, Constitutional AI |
 
 ---
 
@@ -115,7 +116,7 @@ PHASE 4: Expert (Ongoing)
 | 1-3 | LLM Fine-tuning (LoRA/QLoRA + Alignment) | [Fine-tuning Guide](advanced/01_llm_finetuning_alignment.ipynb) | Fine-tune Llama 3 |
 | 4-6 | Multi-agent systems | [Multi-agent Guide](advanced/02_multi_agent_systems.ipynb) | Research + report agent |
 | 7-9 | Advanced Retrieval techniques | [Advanced Retrieval](advanced/04_advanced_retrieval.ipynb) | Multi-strategy retrieval |
-| 10-12 | AI Safety & Guardrails | [Safety Guide](advanced/03_safety_guardrails.ipynb) | Build guardrails system |
+| 10-12 | AI Ethics, Safety & Guardrails | [Ethics & Safety Guide](advanced/03_ethics_safety_guardrails.ipynb) | Implement a responsible AI toolkit (bias detection, guardrails) |
 | 13-15 | GraphRAG & Knowledge Graphs | [GraphRAG Guide](advanced/05_graphrag.ipynb) | Knowledge graph RAG |
 | 16-18 | Custom LLM Evaluation | [Advanced Evals](advanced/06_advanced_evals.ipynb) | Custom eval framework |
 | 19-21 | AI Product Case Studies | [Case Studies](advanced/07_case_studies.md) | Analyze + present |
@@ -217,6 +218,7 @@ Thought → Action → Observation → Thought → ... → Final Answer
 - [ ] Designed and ran a comprehensive LLM evaluation suite
 - [ ] Understand alignment basics (RLHF, DPO, Constitutional AI)
 - [ ] Can architect a production AI system with monitoring + guardrails
+- [ ] Can implement basic bias detection and fairness evaluation for a model
 - [ ] Contributed to an AI open-source project
 
 ---
@@ -242,6 +244,23 @@ Thought → Action → Observation → Thought → ... → Final Answer
 | LangChain Docs | [python.langchain.com](https://python.langchain.com) |
 | RAGAS Paper | [arXiv: 2309.15217](https://arxiv.org/abs/2309.15217) |
 | Attention Is All You Need | [arXiv: 1706.03762](https://arxiv.org/abs/1706.03762) |
+
+### AI Ethics & Responsible AI
+| Resource | Link |
+|----------|------|
+| Responsible AI Knowledge Base (GitHub) | [alexandrainst/responsible-ai](https://github.com/alexandrainst/responsible-ai) |
+| Google Research on Responsible AI | [research.google/teams/responsible-ai](https://research.google/teams/responsible-ai) |
+| AI Ethics: A Practical Guide for Responsible Use | [SBS Cyber](https://sbscyber.com/blog/ai-ethics-guide) |
+| AI Ethics in Practice: Bias Detection & Fairness | [DEV Community](https://dev.to/paul_robertson_e844997d2b/ai-ethics-in-practice-building-responsible-ai-applications-with-bias-detection-and-fairness-testing-7ga) |
+| Actionable AI Ethics | [Kaggle Notebook](https://www.kaggle.com/code/luckypen/actionable-ai-ethics) |
+| MIT Course: Ethics and Risks of AI | [MIT Professional Education](https://professional.mit.edu/course-catalog/ethics-and-risks-ai-building-responsible-ai-machine-learning-and-gpts) |
+| Skillsoft Course: AI Risk Management | [Skillsoft](https://www.skillsoft.com/channel/artificial-intelligence-ai-b30e6050-b5a3-11e7-9235-e7f6f925afa4) |
+| Google Cloud: Responsible AI for Digital Leaders | [YouTube](https://www.youtube.com/watch?v=IpTlWtWs-f8) |
+| Google Cloud: Applying AI Principles | [YouTube](https://www.youtube.com/watch?v=zBxozOJRbJ0) |
+| Course: How to Use AI Responsibly in Business | [YouTube](https://www.youtube.com/watch?v=xKy9SyaQDN8) |
+| Building Responsible AI Systems | [YouTube](https://www.youtube.com/watch?v=E9m17DkSkyQ) |
+| Microsoft Responsible AI - Accountability | [YouTube](https://www.youtube.com/watch?v=5BQ2RE9kqvA) |
+| Paper: Against Explainable AI in Law | [arXiv: 2608.07452v1](http://arxiv.org/abs/2608.07452v1) |
 
 ### Key Papers Every AI Engineer Should Read
 1. "Attention Is All You Need" (Transformer architecture)

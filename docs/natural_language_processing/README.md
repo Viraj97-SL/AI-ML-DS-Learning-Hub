@@ -197,34 +197,53 @@ for token in doc[:10]:
 
 ## Resources
 
+### Articles & Guides
+- [Natural Language Processing (NLP): A Complete Beginner’s Guide](https://www.bettermindlabs.org/post/natural-language-processing-nlp-a-complete-beginner-s-guide) — High-level overview of what NLP is and why it matters.
+- [Natural Language Processing (NLP) [A Complete Guide]](https://www.deeplearning.ai/resources/natural-language-processing) — A guide from deeplearning.ai covering concepts and applications.
+- [Master Natural Language Processing in 2025](https://www.analyticsvidhya.com/blog/2022/01/master-natural-language-processing-in-2022-with-best-resources) — A curated list of resources from Analytics Vidhya.
+
 ### Courses & Tutorials
 - [Stanford CS224N: NLP with Deep Learning](http://web.stanford.edu/class/cs224n/) — Best academic NLP course; free lecture videos
 - [HuggingFace NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) — Hands-on, free, covers Transformers library end-to-end
 - [fast.ai NLP](https://course.fast.ai/) — Practical, top-down approach to NLP
+- [Natural Language Processing (NLP) Full Course – Beginner to Advanced](https://www.youtube.com/watch?v=Rj-OtK2n5jU) — Comprehensive YouTube course by Edureka covering NLP with Python.
+- [Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://www.youtube.com/watch?v=sVcwVQRHIc8) — A practical, code-first tutorial on building RAG systems.
+- [Natural Language Processing with spaCy & Python - Course for Beginners](https://www.youtube.com/watch?v=dIUTsFT2MeQ) — A freeCodeCamp course focused on the spaCy library.
+- [My Top Picks: 5 Free NLP Courses I’d Recommend for 2025](https://www.kdnuggets.com/top-picks-5-free-nlp-courses-recommend-2025) — A curated list of free courses from KDnuggets.
+- [Rycolab Intro to NLP (Fall 2025)](https://rycolab.io/classes/intro-nlp-f25) — University course materials from ETH Zurich.
 
 ### Books
 - *Speech and Language Processing* — Jurafsky & Martin — [Free PDF](https://web.stanford.edu/~jurafsky/slp3/) — Definitive NLP textbook
 - *Natural Language Processing with Transformers* — Tunstall, von Werra, Wolf (O'Reilly) — HuggingFace team's book
 - *Practical Natural Language Processing* — Vajjala et al. (O'Reilly) — Production-focused
+- *Natural Language Processing with Python* — Bird, Klein, & Loper (O'Reilly) — The classic "NLTK book," excellent for foundational concepts.
 
 ### Key Papers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Vaswani et al. 2017 — The Transformer
 - [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805) — Devlin et al. 2018
 - [Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165) — Brown et al. 2020
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) — Hu et al. 2021
+- [CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG](https://arxiv.org/abs/2608.07458v1) — Liu et al. 2026 — Research on optimizing RAG performance.
+- [CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity](https://arxiv.org/abs/2608.07460v1) — Zhou et al. 2026 — A paper on improving LLM instruction tuning for creative tasks.
 
 ---
 
 ## Projects & Exercises
 
+For more ideas, check out [10 Must-Try NLP Projects That'll Get You Noticed!](https://www.youtube.com/watch?v=YUjZPR3L8SA) (YouTube).
+
 **Project 1 — Sentiment Analysis API**
 Fine-tune DistilBERT on a product review dataset (Amazon or Yelp). Wrap it in a FastAPI app that returns `{sentiment, confidence, explanation}`. Compare against a TF-IDF + Logistic Regression baseline. Document when the simpler model is good enough.
+*For a guided walkthrough, see [Python Sentiment Analysis Project with NLTK and 🤗 Transformers](https://www.youtube.com/watch?v=QpzMWQvxXWk).*
 
 **Project 2 — Semantic Search Engine**
 Build a search engine over a corpus of 1000+ documents using `sentence-transformers`. Encode all documents, store embeddings in ChromaDB, and implement a search endpoint that returns top-5 semantically similar documents. Add keyword highlighting.
 
 **Project 3 — Document Summarizer + Q&A**
 Use T5 or BART for abstractive summarization of long articles. Then implement extractive Q&A over the same documents using BERT. Package both as a single Streamlit app where users can paste an article, get a summary, and ask questions about it.
+
+**Project 4 — Movie Recommendation System**
+Build a content-based movie recommender using TF-IDF on movie plot summaries. Create a FastAPI endpoint that takes a movie title and returns the top 5 most similar movies. See this [end-to-end tutorial](https://www.youtube.com/watch?v=IoL9FzHvL3I) for an example.
 
 ---
 

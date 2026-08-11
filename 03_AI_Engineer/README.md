@@ -116,10 +116,10 @@ PHASE 4: Expert (Ongoing)
 | 1-3 | LLM Fine-tuning (LoRA/QLoRA + Alignment) | [Fine-tuning Guide](advanced/01_llm_finetuning_alignment.ipynb) | Fine-tune Llama 3 |
 | 4-6 | Multi-agent systems | [Multi-agent Guide](advanced/02_multi_agent_systems.ipynb) | Research + report agent |
 | 7-9 | Advanced Retrieval techniques | [Advanced Retrieval](advanced/04_advanced_retrieval.ipynb) | Multi-strategy retrieval |
-| 10-12 | AI Ethics, Safety & Guardrails | [Ethics & Safety Guide](advanced/03_ethics_safety_guardrails.ipynb) | Implement a responsible AI toolkit (bias detection, guardrails) |
+| 10-12 | AI Ethics, Safety & Guardrails | [Ethics & Safety Guide](advanced/03_safety_guardrails.ipynb) | Implement a responsible AI toolkit (bias detection, guardrails) |
 | 13-15 | GraphRAG & Knowledge Graphs | [GraphRAG Guide](advanced/05_graphrag.ipynb) | Knowledge graph RAG |
 | 16-18 | Custom LLM Evaluation | [Advanced Evals](advanced/06_advanced_evals.ipynb) | Custom eval framework |
-| 19-21 | AI Product Case Studies | [Case Studies](advanced/07_case_studies.md) | Analyze + present |
+| 19-21 | AI Product Case Studies | Case Studies (find and analyze 3 public post-mortems) | Analyze + present |
 
 **[→ Start Advanced Phase](advanced/)**
 

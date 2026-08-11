@@ -88,7 +88,7 @@ Each major Kaggle competition is a concentrated lesson in a specific ML challeng
 
 | Competition | Platform | Year | Topic | Winner's Approach | Key Technique | Link |
 |-------------|----------|------|-------|-------------------|---------------|------|
-| **Netflix Prize** | Netflix | 2009 | Collaborative filtering | 800+ model ensemble (Bellkor's Pragmatic Chaos) | Matrix factorization + temporal dynamics | [Paper](https://www.kdd.org/kdd2009/docs/NetflixPrize-2009.pdf) |
+| **Netflix Prize** | Netflix | 2009 | Collaborative filtering | 800+ model ensemble (Bellkor's Pragmatic Chaos) | Matrix factorization + temporal dynamics | [Paper](https://www2.seas.gwu.edu/~simhaweb/champalg/cf/papers/KorenBellKor2009.pdf) |
 | **Otto Group Product Classification** | Kaggle | 2015 | Multi-class classification | Stacking neural networks with GBDT | Feature hashing, stacked generalization | [1st Place](https://www.kaggle.com/c/otto-group-product-classification-challenge/discussion/14335) |
 
 ---
@@ -128,10 +128,10 @@ Each major Kaggle competition is a concentrated lesson in a specific ML challeng
 
 | Resource | Link |
 |----------|------|
-| All Kaggle Competition Solutions | [github.com/lbniesz/kaggle-solutions](https://github.com/lbniesz/kaggle-solutions) |
+| All Kaggle Competition Solutions | [github.com/faridrashidi/kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) |
 | M5 Competition Papers | [arxiv.org](https://arxiv.org/abs/2104.00786) |
-| Netflix Prize Papers | [netflixprize.com](https://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf) |
-| DrivenData Past Competitions | [drivendata.org/competitions/past](https://www.drivendata.org/competitions/past/) |
+| Netflix Prize Papers | [gwu.edu mirror](https://www2.seas.gwu.edu/~simhaweb/champalg/cf/papers/KorenBellKor2009.pdf) |
+| DrivenData Competitions | [drivendata.org/competitions](https://www.drivendata.org/competitions/) |
 
 ---
 

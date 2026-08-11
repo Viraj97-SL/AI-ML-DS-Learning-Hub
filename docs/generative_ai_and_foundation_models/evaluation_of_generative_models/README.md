@@ -297,7 +297,6 @@ class EvalPipeline:
 ### Courses & Guides
 - [RAGAS Documentation](https://docs.ragas.io/) — Official RAGAS framework docs with tutorials
 - [Hugging Face: Evaluation on the Hub](https://huggingface.co/docs/evaluate/index) — Comprehensive metric library docs
-- [Chip Huyen: Evaluating LLMs](https://huyenchip.com/2023/01/24/llm-evaluations.html) — Excellent practical overview
 
 ### Key Papers
 - [RAGAS: Automated Evaluation of RAG Pipelines](https://arxiv.org/abs/2309.15217) — Es et al. 2023
@@ -320,7 +319,7 @@ Build a CI evaluation pipeline using GitHub Actions: when a prompt template chan
 ---
 
 ## Related Topics
-- [AI Evaluation Notebook →](../../03_AI_Engineer/intermediate/06_ai_evaluation.ipynb)
-- [Advanced Evals Notebook →](../../03_AI_Engineer/advanced/06_advanced_evals.ipynb)
-- [Production AI Systems →](../../03_AI_Engineer/intermediate/07_production_ai.ipynb)
-- [Natural Language Processing →](../natural_language_processing/README.md)
+- [AI Evaluation Notebook →](../../../03_AI_Engineer/intermediate/06_ai_evaluation.ipynb)
+- [Advanced Evals Notebook →](../../../03_AI_Engineer/advanced/06_advanced_evals.ipynb)
+- [Production AI Systems →](../../../03_AI_Engineer/intermediate/07_production_ai.ipynb)
+- [Natural Language Processing →](../../natural_language_processing/README.md)

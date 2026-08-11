@@ -243,7 +243,7 @@ Debug on `ml.t3.medium` (SageMaker) or `e2-standard-2` (Vertex) before scaling u
 ### Courses & Tutorials
 - [AWS SageMaker Immersion Day](https://catalog.workshops.aws/sagemaker-immersion-day) — Official hands-on workshop
 - [Google Cloud Vertex AI Quickstarts](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform) — Official getting started guides
-- [Microsoft Learn: Azure ML](https://learn.microsoft.com/en-us/training/paths/use-azure-machine-learning-pipelines/) — Free official Azure ML learning path
+- [Microsoft Learn: Run pipelines in Azure ML](https://learn.microsoft.com/en-us/training/modules/run-pipelines-azure-machine-learning/) — Free official Azure ML learning module
 
 ### Books & Papers
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107963/) — Chip Huyen — Best book on production ML; cloud-agnostic
@@ -265,7 +265,7 @@ Deploy a scikit-learn model to SageMaker Serverless Inference or Vertex AI Serve
 ---
 
 ## Related Topics
-- [MLOps & CI/CD Notebook →](../../02_ML_Engineer/intermediate/07_mlops_cicd.ipynb)
-- [Distributed Training →](../../02_ML_Engineer/advanced/01_distributed_training.ipynb)
-- [Inference Optimization →](../../02_ML_Engineer/advanced/06_inference_optimization.ipynb)
-- [Data Quality & Observability →](../data_engineering/data_quality_&_observability/README.md)
+- [MLOps & CI/CD Notebook →](../../../02_ML_Engineer/intermediate/07_mlops_cicd.ipynb)
+- [Distributed Training →](../../../02_ML_Engineer/advanced/01_distributed_training.ipynb)
+- [Inference Optimization →](../../../02_ML_Engineer/advanced/06_inference_optimization.ipynb)
+- [Data Quality & Observability →](../../data_engineering/data_quality_&_observability/README.md)

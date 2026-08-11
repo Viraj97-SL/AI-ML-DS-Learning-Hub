@@ -315,7 +315,7 @@ Detect anomalies in a server metrics dataset (CPU usage, request latency). Imple
 ---
 
 ## Related Topics
-- [Time Series Notebook →](../../01_Data_Scientist/advanced/03_time_series.ipynb) — Hands-on time series with code
-- [Statistics Foundations →](../../04_Foundations/statistics/05_experimental_design.ipynb)
-- [Feature Engineering →](../../01_Data_Scientist/intermediate/03_feature_engineering.ipynb)
-- [Computer Vision →](../computer_vision/README.md) — Video sequence modeling connects to time series
+- [Time Series Notebook →](../../../01_Data_Scientist/advanced/03_time_series.ipynb) — Hands-on time series with code
+- [Statistics Foundations →](../../../04_Foundations/statistics/05_experimental_design.ipynb)
+- [Feature Engineering →](../../../01_Data_Scientist/intermediate/03_feature_engineering.ipynb)
+- [Computer Vision →](../../computer_vision/README.md) — Video sequence modeling connects to time series

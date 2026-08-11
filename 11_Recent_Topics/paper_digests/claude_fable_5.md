@@ -80,4 +80,4 @@ llm = ChatAnthropic(model="claude-fable-5", max_tokens=4096, thinking={"type": "
 - [Anthropic model documentation](https://docs.anthropic.com/en/docs/models-overview)
 - [Claude 4.x release series](https://www.anthropic.com/news)
 - [SWE-bench Verified leaderboard](https://www.swebench.com)
-- Related: [03_AI_Engineer/advanced/07_reasoning_models.ipynb](../../../03_AI_Engineer/advanced/07_reasoning_models.ipynb)
+- Related: [03_AI_Engineer/advanced/07_reasoning_models.ipynb](../../03_AI_Engineer/advanced/07_reasoning_models.ipynb)

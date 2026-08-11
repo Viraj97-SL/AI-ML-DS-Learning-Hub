@@ -343,4 +343,4 @@ Referrals are 4-6x more likely to convert to an offer than cold applications.
 
 ---
 
-*Back to: [Career Guide](../README.md) | [Portfolio Guide](./portfolio_guide.md) | [Main README](../../README.md)*
+*Back to: [Career Guide](../README.md) | [Portfolio Guide](./portfolio_guide.md) | [Main README](../README.md)*

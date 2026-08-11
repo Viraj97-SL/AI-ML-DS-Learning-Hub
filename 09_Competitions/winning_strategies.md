@@ -504,7 +504,7 @@ competition_learnings = {
 
 | Resource | Link |
 |----------|------|
-| "Winning Solutions" Repository | [github.com/sokrypton/kaggle-solutions](https://github.com/kownse/kaggle_realtimewi) |
+| "Winning Solutions" Repository | [github.com/faridrashidi/kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) |
 | MLWave Ensemble Guide | [mlwave.com](https://mlwave.com/kaggle-ensembling-guide/) |
 | Optuna Documentation | [optuna.readthedocs.io](https://optuna.readthedocs.io) |
 | "KAGGLE Book" by Bojan Tunguz | [packt.com](https://www.packtpub.com/product/the-kaggle-book/9781801817479) |

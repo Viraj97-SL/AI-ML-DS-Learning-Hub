@@ -8,6 +8,12 @@
     },
     {
       "pattern": "^https://teamblind.com"
+    },
+    {
+      "pattern": "^https://mlwave.com"
+    },
+    {
+      "pattern": "^https://arxiv.org/abs/XXXX"
     }
   ],
   "timeout": "20s",

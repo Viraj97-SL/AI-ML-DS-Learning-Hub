@@ -358,4 +358,4 @@ print(extract_keywords(jd))
 
 ---
 
-*Back to: [Career Guide](../README.md) | [Main README](../../README.md)*
+*Back to: [Career Guide](../README.md) | [Main README](../README.md)*

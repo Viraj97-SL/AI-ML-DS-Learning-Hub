@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - '**/*.md'
-      - 'mkdocs.yml'
+      - '.mkdocs/mkdocs.yml'
   workflow_dispatch:
 
 permissions:
@@ -37,12 +37,12 @@ jobs:
         run: pip install mkdocs-material mkdocs-minify-plugin
 
       - name: Build documentation
-        run: mkdocs build --strict
+        run: mkdocs build --strict -f .mkdocs/mkdocs.yml
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site/
+          path: ../site/
 
   deploy:
     needs: build

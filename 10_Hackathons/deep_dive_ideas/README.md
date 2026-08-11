@@ -30,16 +30,16 @@ These are the ideas that win "Best Technical Implementation" and "Most Innovativ
 
 | # | Name | Core Innovation | Themes Used | Difficulty |
 |---|------|----------------|-------------|-----------|
-| 01 | [Viral Autopsy](#01-viral-autopsy) | Mutation provenance graph for mis/disinformation spread | T1 + T2 + T3 | ⭐⭐⭐⭐⭐ |
-| 02 | [Replicant](#02-replicant) | Live arXiv reproducibility scoring with xKG evidence | T1 + T3 | ⭐⭐⭐⭐ |
-| 03 | [Portfall](#03-portfall) | Maritime disruption economic cascade model | T1 + T2 | ⭐⭐⭐⭐⭐ |
-| 04 | [Tipping Oracle](#04-tipping-oracle) | Climate tipping point cross-institution consensus | T1 + T2 + T3 | ⭐⭐⭐⭐⭐ |
-| 05 | [TruthWeight](#05-truthweight) | Real-time health claim credibility from TikTok + JMIR | T2 + T3 | ⭐⭐⭐⭐ |
-| 06 | [ChronoLaw](#06-chronolaw) | Bi-temporal law-as-living-graph | T1 + T3 | ⭐⭐⭐⭐ |
-| 07 | [Ghostwriter Forensics](#07-ghostwriter-forensics) | Cognitive trace detection in AI-written essays | T1 + T3 | ⭐⭐⭐⭐ |
-| 08 | [Exodus Mapper](#08-exodus-mapper) | Climate displacement multi-source adaptive retrieval | T1 + T3 | ⭐⭐⭐⭐ |
-| 09 | [Protocol Darwin](#09-protocol-darwin) | Self-evolving protocol spec from agent failures | T1 + T2 | ⭐⭐⭐⭐⭐ |
-| 10 | [Carbon Lie Detector](#10-carbon-lie-detector) | Greenwash score from satellite + supply chain + academic | T2 + T3 | ⭐⭐⭐⭐⭐ |
+| 01 | Viral Autopsy | Mutation provenance graph for mis/disinformation spread | T1 + T2 + T3 | ⭐⭐⭐⭐⭐ |
+| 02 | Replicant | Live arXiv reproducibility scoring with xKG evidence | T1 + T3 | ⭐⭐⭐⭐ |
+| 03 | Portfall | Maritime disruption economic cascade model | T1 + T2 | ⭐⭐⭐⭐⭐ |
+| 04 | Tipping Oracle | Climate tipping point cross-institution consensus | T1 + T2 + T3 | ⭐⭐⭐⭐⭐ |
+| 05 | TruthWeight | Real-time health claim credibility from TikTok + JMIR | T2 + T3 | ⭐⭐⭐⭐ |
+| 06 | ChronoLaw | Bi-temporal law-as-living-graph | T1 + T3 | ⭐⭐⭐⭐ |
+| 07 | Ghostwriter Forensics | Cognitive trace detection in AI-written essays | T1 + T3 | ⭐⭐⭐⭐ |
+| 08 | Exodus Mapper | Climate displacement multi-source adaptive retrieval | T1 + T3 | ⭐⭐⭐⭐ |
+| 09 | Protocol Darwin | Self-evolving protocol spec from agent failures | T1 + T2 | ⭐⭐⭐⭐⭐ |
+| 10 | Carbon Lie Detector | Greenwash score from satellite + supply chain + academic | T2 + T3 | ⭐⭐⭐⭐⭐ |
 
 **T1** = Theme 1 (Prolonged Coordination) · **T2** = Theme 2 (Multi-Agent Collaboration) · **T3** = Theme 3 (Adaptive Retrieval)
 

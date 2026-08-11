@@ -207,7 +207,7 @@ Phase 7: Final Submission (Last 2 days)
 | Kaggle Grandmaster interviews | Strategy insights | [Kaggle Blog](https://medium.com/kaggle-blog) |
 | ML Competitions Reddit | Community | [r/mlcompetitions](https://reddit.com/r/mlcompetitions) |
 | Top Solutions GitHub | Solution codebases | [github.com/topics/kaggle](https://github.com/topics/kaggle) |
-| Winning Solutions List | Curated top solutions | [kagglesolutions.com](http://kagglesolutions.com) |
+| Winning Solutions List | Curated top solutions | [farid.one/kaggle-solutions](https://farid.one/kaggle-solutions/) |
 | DrivenData Blog | Social good ML | [blog.drivendata.org](https://blog.drivendata.org) |
 
 ---

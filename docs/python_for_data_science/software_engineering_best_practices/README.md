@@ -403,6 +403,6 @@ Write a suite of 20+ pytest tests for a data preprocessing pipeline: test happy 
 ---
 
 ## Related Topics
-- [Python for DS Guide →](../../04_Foundations/programming/python_for_ds.md)
-- [MLOps & CI/CD Notebook →](../../02_ML_Engineer/intermediate/07_mlops_cicd.ipynb)
-- [ML Engineer Track →](../../02_ML_Engineer/README.md)
+- [Python for DS Guide →](../../../04_Foundations/programming/python_for_ds.md)
+- [MLOps & CI/CD Notebook →](../../../02_ML_Engineer/intermediate/07_mlops_cicd.ipynb)
+- [ML Engineer Track →](../../../02_ML_Engineer/README.md)

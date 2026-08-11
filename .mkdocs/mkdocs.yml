@@ -9,8 +9,8 @@ repo_url: https://github.com/viraj97-sl/ai-ml-ds-learning-hub
 repo_name: viraj97-sl/ai-ml-ds-learning-hub
 edit_uri: edit/master/
 
-docs_dir: '.'
-site_dir: site
+docs_dir: '..'
+site_dir: ../../site
 
 theme:
   name: material
@@ -73,7 +73,6 @@ markdown_extensions:
       permalink: true
 
 exclude_docs: |
-  site/
   venv/
   .venv/
   *.ipynb

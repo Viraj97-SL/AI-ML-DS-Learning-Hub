@@ -153,7 +153,7 @@
 
 ### Research Your Market Value
 1. Check [Levels.fyi](https://levels.fyi) for tech company data points
-2. Use [Glassdoor](https://glassdoor.com), [LinkedIn Salary](https://linkedin.com/salary), [Payscale](https://payscale.com)
+2. Use [Glassdoor](https://glassdoor.com), [LinkedIn Salary](https://linkedin.com/salary), [Payscale](https://www.payscale.com)
 3. Ask peers in communities (Blind, Discord servers, Reddit r/cscareerquestions)
 4. Talk to recruiters — they know market rates
 5. Get multiple offers simultaneously for the strongest leverage

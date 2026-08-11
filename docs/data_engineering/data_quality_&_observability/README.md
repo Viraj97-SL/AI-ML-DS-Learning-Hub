@@ -257,7 +257,7 @@ models:
 
 ### Key Resources
 - [The Data Contract Specification](https://datacontract.com/) — Open specification for data contracts
-- [dbt Labs: Data Reliability Engineering](https://www.getdbt.com/blog/data-reliability-engineering) — Practical guide to making data trustworthy
+- [dbt Courses](https://courses.getdbt.com/) — Free dbt fundamentals and advanced courses covering pipeline reliability
 
 ---
 
@@ -275,6 +275,6 @@ Build a simple data observability system in Python: for each table in a SQLite/D
 ---
 
 ## Related Topics
-- [Data Engineer Track Overview →](../../02_ML_Engineer/README.md)
-- [Feature Stores →](../../02_ML_Engineer/intermediate/06_feature_stores.ipynb)
-- [MLOps & Cloud Platforms →](../mlops_and_production_ml/cloud_ml_platforms/README.md)
+- [Data Engineer Track Overview →](../../../02_ML_Engineer/README.md)
+- [Feature Stores →](../../../02_ML_Engineer/intermediate/06_feature_stores.ipynb)
+- [MLOps & Cloud Platforms →](../../mlops_and_production_ml/cloud_ml_platforms/README.md)

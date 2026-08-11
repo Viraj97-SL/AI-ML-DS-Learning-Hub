@@ -82,8 +82,8 @@ Before starting this track, make sure you have:
 |------|-------|----------|----------|
 | 1-2 | Python for DS refresher | [Python for DS](../04_Foundations/programming/python_for_ds.md) | [Exercises](beginner/01_python_exercises.ipynb) |
 | 3-4 | pandas & NumPy | [Data Manipulation Guide](beginner/02_pandas_numpy.ipynb) | Analyze Titanic dataset |
-| 5-6 | Statistics Foundations | [Stats Guide](../04_Foundations/statistics/) | [Stats Notebook](beginner/03_statistics.ipynb) |
-| 7-8 | Data Visualization | [Visualization Guide](beginner/04_visualization.ipynb) | Create 10 chart types |
+| 5-6 | Statistics Foundations | [Stats Guide](../04_Foundations/statistics/) | [Stats Notebook](beginner/03_statistics_fundamentals.ipynb) |
+| 7-8 | Data Visualization | [Visualization Guide](beginner/04_data_visualization.ipynb) | Create 10 chart types |
 | 9-10 | EDA Workflow | [EDA Notebook](beginner/05_eda_workflow.ipynb) | Full EDA on 2 datasets |
 | 11-12 | SQL for Analysis | [SQL Guide](../04_Foundations/programming/sql_basics.md) | [SQL Exercises](beginner/06_sql_exercises.ipynb) |
 
@@ -114,7 +114,7 @@ Before starting this track, make sure you have:
 | 5-6 | Feature Engineering | [Feature Engineering Guide](intermediate/03_feature_engineering.ipynb) | Engineer 10 new features |
 | 7-8 | Model Evaluation | [Evaluation Metrics](intermediate/04_model_evaluation.ipynb) | Cross-validate 5 models |
 | 9-10 | Ensemble Methods | [Ensembles Guide](intermediate/05_ensemble_methods.ipynb) | XGBoost competition entry |
-| 11-12 | Unsupervised Learning | [Clustering & Dimensionality](intermediate/06_unsupervised.ipynb) | Customer segmentation project |
+| 11-12 | Unsupervised Learning | [Clustering & Dimensionality](intermediate/06_unsupervised_learning.ipynb) | Customer segmentation project |
 | 13-14 | ML Pipelines | [sklearn Pipelines](intermediate/07_ml_pipelines.ipynb) | Build production-ready pipeline |
 
 **[→ Start Intermediate Phase](intermediate/)**
@@ -143,7 +143,7 @@ Before starting this track, make sure you have:
 | 1-3 | Deep Learning Intro | [Deep Learning Guide](advanced/01_deep_learning_intro.ipynb) | Train neural network from scratch |
 | 4-6 | NLP Fundamentals | [NLP Guide](advanced/02_nlp_fundamentals.ipynb) | Sentiment analysis project |
 | 7-9 | Time Series | [Time Series Guide](advanced/03_time_series.ipynb) | Sales forecasting project |
-| 10-12 | A/B Testing & Experimentation | [Experiment Design Guide](advanced/04_ab_testing.ipynb) | Design and analyze experiment |
+| 10-12 | A/B Testing & Experimentation | [Experiment Design Guide](advanced/04_ab_testing_advanced.ipynb) | Design and analyze experiment |
 | 13-15 | Bayesian Statistics | [Bayesian Guide](advanced/05_bayesian_statistics.ipynb) | Bayesian A/B test |
 | 16-18 | Model Interpretability | [XAI Guide](advanced/06_model_interpretability.ipynb) | Explain black-box model |
 | 19-21 | Causal Inference | [Causality Guide](advanced/07_causal_inference.ipynb) | Propensity score matching |

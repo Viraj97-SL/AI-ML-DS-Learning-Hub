@@ -168,4 +168,4 @@ Thank you for making this better for everyone!
 
 ---
 
-*Questions? Open a [GitHub Discussion](../../discussions) or an Issue.*
+*Questions? Open an [Issue](https://github.com/Viraj97-SL/AI-ML-DS-Learning-Hub/issues).*

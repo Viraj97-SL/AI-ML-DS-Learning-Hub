@@ -14,11 +14,20 @@
     },
     {
       "pattern": "^https://arxiv.org/abs/XXXX"
+    },
+    {
+      "pattern": "^https://otexts.com"
+    },
+    {
+      "pattern": "^https://ieeexplore.ieee.org"
+    },
+    {
+      "pattern": "^https://ai.plainenglish.io"
     }
   ],
   "timeout": "20s",
   "retryOn429": true,
   "retryCount": 3,
   "fallbackRetryDelay": "30s",
-  "aliveStatusCodes": [200, 206, 301, 302, 307, 308, 403, 429]
+  "aliveStatusCodes": [200, 202, 206, 301, 302, 307, 308, 403, 429]
 }

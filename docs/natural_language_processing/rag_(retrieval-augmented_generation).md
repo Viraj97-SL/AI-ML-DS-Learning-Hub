@@ -29,10 +29,28 @@ Natural Language Processing (NLP) is a field of artificial intelligence that foc
 *   [Resources for CMT122 students (2024-2025)](https://github.com/nedjmaou/CMT122-2425-Resources) - A GitHub repository with resources for a university course on ML for NLP.
 *   [How to start learning natural language processing (Reddit)](https://www.reddit.com/r/MachineLearning/comments/2w0odl/how_to_start_learning_natural_language_processing/) - A Reddit discussion with book and resource recommendations.
 *   [Practical NLP: The perfect guide for executives and machine...](https://bdtechtalks.com/2020/08/19/practical-nlp-review/) - A review of the "Practical Natural Language Processing" book.
+*   [Master Natural Language Processing in 2025](https://www.analyticsvidhya.com/blog/2022/01/master-natural-language-processing-in-2022-with-best-resources) - An Analytics Vidhya guide with resources for beginners and intermediate learners.
+*   [12 Natural Language Processing (NLP) Projects for Beginners to Advanced](https://www.tutort.net/blogs/explore-12-natural-language-processing-nlp-projects-for-all-levels) - A blog post outlining a dozen project ideas for all skill levels.
+*   [HuggingFace Transformers for Natural Language Processing](https://www.youtube.com/watch?v=0_l1Mb1NBd0) - A deep dive into the HuggingFace Transformers library and its workflow.
+*   [Natural Language Processing Basics | Complete Module](https://www.youtube.com/watch?v=rnAtAJWbwbw) - A video module covering the basics of NLP.
+*   [Natural Language Processing (NLP) Full Course – Beginner to Advanced](https://www.youtube.com/watch?v=BCLjPLeVCBY) - A 7-hour video course covering a wide range of NLP topics.
+*   [What Is Natural Language Processing? A Complete Guide to NLP](https://www.splunk.com/en_us/blog/learn/natural-language-processing-nlp.html) - A comprehensive guide from Splunk explaining the fundamentals and applications of NLP.
+*   [Overview of Natural Language Processing (Arif Butt @ Data Science)](https://www.youtube.com/watch?v=x6nbAoWNpcU) - A video lecture covering an overview and the challenges of NLP.
+*   [Natural Language Processing (NLP) & Text Mining Tutorial Using NLTK](https://www.youtube.com/watch?v=05ONoGfmKvA) - A tutorial from Edureka focusing on text mining with the NLTK library.
+*   [Top 11 NLP Libraries in Python](https://www.anaconda.com/guides/nlp-libraries) - An Anaconda guide to the most popular and useful Python libraries for NLP.
+*   [Natural Language Processing with Python: Beginner's Guide](https://julius.ai/articles/natural-language-processing-with-python) - An article from Julius AI on how to get started with NLP in Python.
+*   [NATURAL LANGUAGE PROCESSING With Python | Theory & Hands-On Exercise](https://www.youtube.com/watch?v=MpIagClRELI) - A video combining NLP theory with a practical hands-on exercise.
+*   [NLP Tutorial in Python - Spam Classification](https://www.youtube.com/watch?v=hOuvYcw_sVQ) - A practical video tutorial on building a spam classifier with NLTK.
+*   [Named Entity Recognition (NER): NLP Tutorial For Beginners](https://www.youtube.com/watch?v=2XUhKpH0p4M) - A beginner-friendly tutorial explaining and demonstrating Named Entity Recognition.
+*   [Natural Language Processing Guide (Kaggle)](https://www.kaggle.com/learn-guide/natural-language-processing) - A learning guide from Kaggle on the fundamentals of NLP.
+*   [Natural Language Processing (NLP) Full Course – Beginner to Advanced](https://www.youtube.com/watch?v=H9yC8Hq0tHk) - Another comprehensive video course covering NLP from basics to advanced concepts.
+*   [Practical implementation of Natural language processing with python (SlideShare)](https://www.slideshare.net/slideshow/practical-implementation-of-natural-language-processing-with-python/146013228) - A presentation outlining a workshop on practical NLP with Python.
+*   [Natural Language Processing in Artificial Intelligence in Hindi](https://www.youtube.com/watch?v=bPpwZxasJo0) - A video lecture with demos and examples of NLP, presented in Hindi.
 
 #### Projects/Exercises
 
 1.  **Spam Classifier:** Build a simple model to classify text messages or emails as "spam" or "not spam." This is a great introduction to text classification and feature extraction techniques like Bag-of-Words or TF-IDF.
 2.  **Sentiment Analysis of Movie Reviews:** Use a library like NLTK or TextBlob to analyze a dataset of movie reviews and classify them as positive or negative. The project-based video in the resources list is a perfect starting point.
 3.  **Text Summarizer:** Write a script that takes a long article or block of text and generates a short summary. You can start with a basic extractive approach that identifies and combines the most important sentences.
+4.  **Named Entity Recognition (NER):** Use a library like spaCy or NLTK to identify and extract entities like names of people, organizations, and locations from a body of text. This is a core task in information extraction.
 ```
